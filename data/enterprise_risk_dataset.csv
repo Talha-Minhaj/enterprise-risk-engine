@@ -1,0 +1,751 @@
+entity_id,entity_name,sector,jurisdiction,credit_rating,annual_revenue_usd,total_exposure_usd,probability_of_default,loss_given_default,current_ratio,quick_ratio,debt_to_equity,interest_coverage_ratio,operating_margin,audit_findings_count,control_effectiveness_score,incident_frequency_annual,regulatory_compliance_score,sla_breach_rate
+ENT-1001,Crestview Global Logistics Group,Healthcare & Life Sciences,Western Europe,A,8631781582.55,250000000.0,0.0152,0.2812,1.67,1.11,1.84,9.21,0.2924,1,75.3,3,79.5,0.0789
+ENT-1002,Delta Semiconductor Enterprises,Energy & Utilities,Middle East & Africa,CCC,930455584.48,49142682.77,0.1509,0.5569,0.66,0.49,4.64,1.03,0.0047,11,27.3,2,30.5,0.3184
+ENT-1003,Zephyr Renewable Power Corp,Energy & Utilities,Western Europe,A,16390818.26,1244950.22,0.0148,0.3271,1.52,1.08,1.09,9.78,0.263,2,87.5,0,82.9,0.0764
+ENT-1004,Jupiter Advanced Materials Corp,Healthcare & Life Sciences,Middle East & Africa,A,485171770.71,23419105.31,0.0102,0.4439,2.35,2.08,1.87,9.19,0.3566,3,76.3,0,80.8,0.1339
+ENT-1005,Vertex Digital Systems International,Manufacturing & Industrial,North America,BBB,553179509.19,28252305.62,0.0441,0.4335,1.45,1.05,1.55,3.07,0.207,7,71.7,6,74.3,0.1427
+ENT-1006,Falcon Maritime Transport PLC,Manufacturing & Industrial,Western Europe,BBB,2601108568.82,39492958.16,0.0277,0.3255,1.98,1.6,1.8,3.29,0.1733,2,70.5,3,70.8,0.1601
+ENT-1007,Infinity Supply Chain Network Inc,Energy & Utilities,Latin America,A,33364461.28,1999436.58,0.0171,0.3623,2.35,1.82,1.43,7.99,0.0876,0,76.6,3,75.9,0.1223
+ENT-1008,Beacon Industrial Robotics PLC,Manufacturing & Industrial,North America,AA,852647063.71,40747045.13,0.0042,0.3886,2.64,2.17,1.28,14.24,0.1687,3,83.4,3,78.2,0.0756
+ENT-1009,Solstice Financial Services Inc,Transportation & Logistics,North America,BB,131127578.68,2431912.64,0.0578,0.5976,1.09,0.88,2.2,2.38,0.1714,8,55.3,4,56.3,0.1777
+ENT-1010,Nexus Secure Payments PLC,Healthcare & Life Sciences,North America,A,46201417.31,1169519.36,0.0147,0.3308,1.57,1.12,1.1,9.87,0.2937,0,77.2,2,77.1,0.1064
+ENT-1011,Meridian Digital Systems Group,Energy & Utilities,Western Europe,AAA,96611098.3,7108510.52,0.0017,0.179,2.98,2.67,0.37,20.74,0.3085,2,90.6,1,87.4,0.0619
+ENT-1012,Beacon Telecom Networks Group,Telecommunications,Asia-Pacific,BBB,538881630.68,8794701.2,0.0406,0.3706,1.37,0.9,2.19,6.05,0.085,2,73.7,3,74.1,0.0974
+ENT-1013,Falcon Industrial Robotics PLC,Healthcare & Life Sciences,Asia-Pacific,BBB,198984281.17,15037460.85,0.0217,0.375,1.3,1.15,2.62,4.16,0.278,0,78.9,3,77.8,0.0813
+ENT-1014,Horizon Agri-Sciences LLC,Healthcare & Life Sciences,Western Europe,AA,6036557505.14,250000000.0,0.0068,0.2678,2.29,1.9,1.3,16.87,0.314,2,90.3,0,84.4,0.0817
+ENT-1015,Solstice Telecom Networks Group,Healthcare & Life Sciences,Asia-Pacific,BBB,15951117.99,500000.0,0.0359,0.3011,1.34,1.05,2.34,5.93,0.1473,0,77.1,5,73.3,0.1239
+ENT-1016,Pinnacle Digital Systems Corp,Retail & Consumer Goods,Latin America,BBB,4379890356.53,245417969.14,0.0333,0.3206,1.53,1.1,1.67,7.38,0.1979,2,80.2,2,82.5,0.0944
+ENT-1017,Matrix Health Solutions Holdings,Retail & Consumer Goods,Western Europe,BBB,403565883.04,9551197.44,0.0375,0.3618,1.22,0.99,1.57,7.23,0.3662,2,80.6,3,72.8,0.1226
+ENT-1018,Nova Telecom Networks International,Technology & Software,Asia-Pacific,A,9602342336.58,250000000.0,0.0182,0.3089,1.92,1.66,1.18,6.19,0.247,1,89.0,2,88.4,0.0308
+ENT-1019,Delta Digital Systems Enterprises,Manufacturing & Industrial,Middle East & Africa,BBB,11228110495.86,222382621.08,0.032,0.493,1.87,1.54,2.35,4.62,0.1681,2,78.8,1,82.1,0.1287
+ENT-1020,Zephyr Automotive Systems Ltd,Retail & Consumer Goods,Western Europe,A,428586209.22,28235543.41,0.0158,0.3904,2.38,2.08,1.21,7.63,0.1082,5,83.7,2,81.8,0.0832
+ENT-1021,Delta Advanced Materials International,Energy & Utilities,North America,A,778634032.28,9448737.6,0.0084,0.4145,1.9,1.3,1.43,10.39,0.1447,3,84.3,4,78.8,0.0716
+ENT-1022,Crestview Capital Partners LLC,Transportation & Logistics,Middle East & Africa,BBB,37821847.25,729665.87,0.0442,0.4572,1.24,0.93,1.95,6.35,0.1553,5,68.1,6,65.7,0.1558
+ENT-1023,Horizon Telecom Networks Ltd,Telecommunications,Middle East & Africa,AAA,6808306011.93,250000000.0,0.0017,0.1688,2.37,2.09,0.65,18.72,0.2771,0,92.8,2,85.4,0.0484
+ENT-1024,Luminary Financial Services Corp,Energy & Utilities,Middle East & Africa,AA,33491919.98,1136433.65,0.0036,0.2188,2.24,2.0,0.58,8.17,0.309,3,92.5,0,90.5,0.0555
+ENT-1025,Matrix Secure Payments PLC,Energy & Utilities,Asia-Pacific,AAA,8541747488.23,250000000.0,0.0018,0.1531,3.87,3.0,0.58,20.89,0.2648,1,98.4,0,100.0,0.0309
+ENT-1026,Zephyr Chemical Dynamics International,Financial Services,Asia-Pacific,BB,1386666083.73,69521464.95,0.0464,0.5747,1.47,1.19,3.84,3.13,0.142,1,57.5,2,57.5,0.1736
+ENT-1027,Genesis Advanced Materials Inc,Manufacturing & Industrial,Middle East & Africa,BBB,197211542.7,11381661.25,0.0272,0.3574,1.65,1.36,1.82,7.21,0.0918,4,72.1,0,71.2,0.1212
+ENT-1028,Hyperion Capital Partners PLC,Technology & Software,Middle East & Africa,BBB,704777655.73,43143205.84,0.0214,0.355,1.72,1.49,2.14,4.07,0.284,2,77.6,0,74.5,0.107
+ENT-1029,Apex Agri-Sciences PLC,Telecommunications,North America,A,202855890.83,6254952.3,0.0092,0.2607,2.55,2.2,1.23,11.7,0.283,1,82.2,4,75.4,0.0934
+ENT-1030,Crestview Industrial Robotics Group,Healthcare & Life Sciences,North America,BBB,62181254.7,4740302.02,0.0391,0.325,2.04,1.82,2.79,3.25,0.3011,2,74.3,1,78.9,0.131
+ENT-1031,Kestrel Automotive Systems Inc,Energy & Utilities,Latin America,BB,4928208999.72,250000000.0,0.0613,0.4334,1.18,1.03,2.49,2.78,0.15,0,63.6,5,66.2,0.1919
+ENT-1032,Horizon Financial Services LLC,Technology & Software,Latin America,CCC,2307894356.08,83864659.73,0.1609,0.7831,0.68,0.51,7.22,-1.21,0.1217,7,25.3,8,27.0,0.3265
+ENT-1033,Falcon Energy Infrastructure Enterprises,Transportation & Logistics,Western Europe,AA,217758106.71,9459421.38,0.0035,0.3057,2.41,2.05,1.38,13.56,0.1768,0,82.6,2,86.5,0.0673
+ENT-1034,Hyperion Biomedical Research Ltd,Retail & Consumer Goods,Latin America,BBB,24836165.05,537332.42,0.0239,0.3648,2.1,1.73,1.88,6.32,0.3546,7,81.3,5,79.2,0.0982
+ENT-1035,Aegis Semiconductor Holdings,Healthcare & Life Sciences,North America,A,52750176.15,2239713.84,0.0122,0.3667,1.59,1.42,1.98,9.89,0.2408,3,79.6,4,80.5,0.073
+ENT-1036,Quantum Global Logistics Enterprises,Healthcare & Life Sciences,Middle East & Africa,B,3664298905.91,250000000.0,0.1381,0.6156,0.85,0.75,5.45,0.58,-0.0881,0,48.3,1,53.1,0.1973
+ENT-1037,Jupiter Global Logistics Inc,Financial Services,Western Europe,BBB,191360232.99,14905815.49,0.0407,0.4844,1.62,1.22,1.71,3.25,0.3394,6,78.8,4,83.8,0.1037
+ENT-1038,Horizon Renewable Power PLC,Energy & Utilities,Middle East & Africa,BBB,8295282668.13,250000000.0,0.0247,0.3991,1.32,1.17,2.21,4.03,0.2815,3,75.5,6,69.0,0.125
+ENT-1039,Kestrel Energy Infrastructure International,Healthcare & Life Sciences,Middle East & Africa,BBB,2619395329.87,121569922.49,0.041,0.4214,1.7,1.48,1.91,3.6,0.0886,4,77.8,5,79.0,0.0837
+ENT-1040,Delta Automotive Systems International,Healthcare & Life Sciences,Latin America,AA,16531632.12,571021.24,0.0065,0.2784,2.41,2.11,0.75,13.14,0.3151,2,87.2,1,90.4,0.0977
+ENT-1041,Vertex Aerospace Engineering Inc,Energy & Utilities,Latin America,AA,7346128413.53,250000000.0,0.0045,0.2918,3.17,2.45,0.73,14.33,0.152,0,83.0,2,76.7,0.0586
+ENT-1042,Radiant Maritime Transport Ltd,Telecommunications,North America,AA,1087948439.56,24730815.18,0.0051,0.3794,2.46,2.01,0.57,9.92,0.0923,3,84.2,1,78.5,0.0494
+ENT-1043,Beacon Renewable Power Ltd,Retail & Consumer Goods,North America,AA,326417539.47,7978741.52,0.0052,0.3007,2.77,1.83,1.2,14.28,0.1045,2,93.4,3,86.2,0.0258
+ENT-1044,Kestrel Aerospace Engineering Holdings,Telecommunications,Western Europe,BB,2230265025.22,51109804.56,0.0505,0.4689,1.24,1.0,2.94,2.66,0.3042,7,52.7,2,54.0,0.2319
+ENT-1045,Zephyr Chemical Dynamics Group,Telecommunications,Western Europe,A,525853283.52,9203505.62,0.0134,0.3565,1.77,1.27,1.25,5.14,0.1766,1,78.2,3,73.2,0.0912
+ENT-1046,Horizon Consumer Brands Enterprises,Energy & Utilities,North America,A,161061228.08,8925626.52,0.0138,0.3668,2.31,1.82,1.5,8.95,0.1936,3,80.1,1,80.0,0.0767
+ENT-1047,Apex Health Solutions Holdings,Technology & Software,Latin America,A,136496849.43,10286187.95,0.0081,0.2951,1.9,1.47,1.82,5.62,0.3218,0,75.8,2,74.6,0.1055
+ENT-1048,Nova Cloud Technologies Holdings,Transportation & Logistics,North America,CCC,31721248.64,1200645.83,0.276,0.8097,0.81,0.58,5.01,0.24,0.3182,7,38.9,12,40.9,0.2375
+ENT-1049,Falcon Telecom Networks Corp,Transportation & Logistics,Asia-Pacific,A,257733887.3,11735326.6,0.0109,0.273,2.17,1.57,1.5,6.08,0.2243,0,83.0,1,80.9,0.0864
+ENT-1050,Solstice Biomedical Research Ltd,Telecommunications,Western Europe,BBB,57774067.48,3346274.47,0.0204,0.3305,1.2,0.82,2.01,5.73,0.3183,4,66.8,5,68.5,0.1414
+ENT-1051,Hyperion Biomedical Research Holdings,Financial Services,Middle East & Africa,B,11294023835.88,250000000.0,0.1103,0.7001,1.03,0.68,5.23,1.91,0.2377,2,57.6,4,52.0,0.1661
+ENT-1052,Pinnacle Supply Chain Network Corp,Financial Services,Middle East & Africa,BBB,6481989630.38,208290704.04,0.0339,0.4503,1.61,1.33,2.65,5.81,0.2419,0,72.5,0,69.1,0.1174
+ENT-1053,Terra Advanced Materials Enterprises,Technology & Software,North America,BBB,23414912.39,609531.79,0.0327,0.3949,1.5,1.25,2.34,3.75,0.3436,5,73.4,6,72.9,0.1562
+ENT-1054,Atlas Chemical Dynamics Inc,Energy & Utilities,Western Europe,BBB,1692462898.73,109163917.45,0.0219,0.345,1.84,1.42,2.43,3.46,0.2409,4,71.4,3,68.6,0.1502
+ENT-1055,Unity Semiconductor Holdings,Financial Services,Middle East & Africa,AA,69443034.31,4205309.04,0.0073,0.3282,2.77,2.18,0.65,11.46,0.1345,1,93.8,1,91.0,0.0371
+ENT-1056,Atlas Maritime Transport Enterprises,Retail & Consumer Goods,Asia-Pacific,B,41810386.47,2133838.57,0.1205,0.6151,0.61,0.53,5.62,1.46,0.2135,7,60.3,9,62.3,0.165
+ENT-1057,Infinity Supply Chain Network Holdings,Manufacturing & Industrial,Latin America,AAA,25151348.22,500000.0,0.0035,0.3321,2.25,1.6,0.32,14.42,0.3312,1,91.7,2,86.7,0.0558
+ENT-1058,Delta Secure Payments Group,Telecommunications,Asia-Pacific,A,2171275695.97,52958687.87,0.0175,0.3707,1.63,1.23,1.84,11.46,0.2197,2,82.2,0,81.8,0.0535
+ENT-1059,Horizon Global Logistics International,Energy & Utilities,North America,B,78834253.5,3975945.41,0.0932,0.4591,0.79,0.67,3.92,0.87,-0.0043,0,51.3,3,49.3,0.2138
+ENT-1060,Infinity Advanced Materials Group,Technology & Software,Asia-Pacific,BB,536348169.1,12289024.33,0.055,0.4544,1.18,0.89,3.8,2.37,0.2205,7,64.5,2,57.4,0.1763
+ENT-1061,Horizon Digital Systems PLC,Manufacturing & Industrial,Western Europe,A,499394090.87,20401942.7,0.0128,0.3619,1.67,1.16,1.83,11.62,0.192,5,79.1,1,76.4,0.0654
+ENT-1062,Aegis Financial Services Group,Financial Services,Middle East & Africa,AA,1797310318.3,100873459.17,0.0032,0.2444,2.12,1.73,0.42,9.04,0.32,0,84.3,3,79.4,0.0498
+ENT-1063,Olympus Semiconductor LLC,Manufacturing & Industrial,North America,A,1874550552.41,131028745.61,0.018,0.3294,2.23,1.56,1.15,11.27,0.0839,4,76.3,2,69.9,0.1362
+ENT-1064,Beacon Financial Services LLC,Manufacturing & Industrial,Asia-Pacific,BBB,1658479987.51,122302417.9,0.0349,0.3739,1.94,1.44,1.35,6.74,0.1836,0,78.2,1,81.4,0.0826
+ENT-1065,Luminary Advanced Materials International,Manufacturing & Industrial,North America,CCC,2752967918.54,49544213.35,0.2236,0.8456,0.64,0.45,5.95,-0.17,0.2338,6,42.5,8,36.3,0.2684
+ENT-1066,Atlas Secure Payments Ltd,Manufacturing & Industrial,North America,CCC,503752440.97,11091394.56,0.1854,0.5555,0.86,0.58,6.23,-0.79,0.1494,11,41.3,9,35.1,0.2333
+ENT-1067,Apex Supply Chain Network LLC,Manufacturing & Industrial,Western Europe,A,2003037026.64,55185966.04,0.0156,0.3489,2.13,1.83,1.29,10.4,0.2066,5,80.3,2,74.7,0.0651
+ENT-1068,Aegis Financial Services Ltd,Financial Services,North America,BBB,23671528.15,1623761.0,0.0298,0.5014,1.85,1.48,2.72,4.78,0.3662,7,67.3,0,62.8,0.1486
+ENT-1069,Horizon Capital Partners Enterprises,Financial Services,Asia-Pacific,AA,4160328171.78,250000000.0,0.0087,0.2309,2.67,2.05,0.74,11.52,0.2038,3,91.2,1,89.2,0.0205
+ENT-1070,Echo Maritime Transport LLC,Financial Services,Asia-Pacific,AAA,15236412.45,1184462.81,0.001,0.1706,2.63,2.24,0.87,22.27,0.2872,1,93.7,2,95.2,0.0617
+ENT-1071,Summit Renewable Power PLC,Healthcare & Life Sciences,Western Europe,BBB,1534024944.79,106528361.32,0.0247,0.4077,1.4,1.26,2.72,3.18,0.2917,6,80.7,1,80.1,0.1213
+ENT-1072,Beacon Industrial Robotics Enterprises,Transportation & Logistics,Middle East & Africa,AAA,1587687602.6,48923689.31,0.0038,0.3442,3.89,2.99,0.8,22.98,0.1757,0,97.1,1,96.9,0.0077
+ENT-1073,Echo Digital Systems LLC,Technology & Software,Latin America,AA,25089576.35,1473767.09,0.005,0.345,1.89,1.38,0.94,15.91,0.1756,3,90.1,0,90.1,0.0359
+ENT-1074,Vanguard Chemical Dynamics PLC,Transportation & Logistics,Western Europe,AAA,5035778132.06,57855343.7,0.0036,0.2558,3.88,3.3,0.9,16.56,0.3102,0,92.4,0,91.9,0.0294
+ENT-1075,Matrix Chemical Dynamics Inc,Transportation & Logistics,North America,A,27688707.32,928843.51,0.0143,0.3965,1.5,1.15,1.16,10.97,0.2947,0,83.8,4,88.6,0.0747
+ENT-1076,Terra Digital Systems Holdings,Telecommunications,Asia-Pacific,A,1409835623.74,35637503.67,0.0194,0.4073,1.6,1.21,1.85,11.61,0.2202,0,84.2,3,77.0,0.0713
+ENT-1077,Olympus Digital Systems Holdings,Financial Services,Western Europe,BB,70057459.23,4774063.89,0.046,0.3913,1.17,0.77,4.11,3.57,0.3202,6,64.6,0,63.3,0.1634
+ENT-1078,Unity Supply Chain Network Group,Energy & Utilities,Asia-Pacific,BBB,85422473.72,3935187.4,0.0313,0.5192,2.01,1.54,2.23,6.37,0.0905,4,80.2,1,78.1,0.0866
+ENT-1079,Radiant Secure Payments Enterprises,Transportation & Logistics,Middle East & Africa,A,363017019.22,4757834.08,0.0182,0.2571,1.86,1.64,1.68,6.97,0.1558,2,75.1,4,67.7,0.1169
+ENT-1080,Quantum Global Logistics Inc,Manufacturing & Industrial,Western Europe,B,31180940.5,2264160.19,0.1593,0.4666,1.13,0.88,5.56,1.47,0.198,12,52.0,12,53.5,0.2085
+ENT-1081,Luminary Renewable Power Inc,Transportation & Logistics,Asia-Pacific,BB,77299597.35,1624361.85,0.048,0.4602,1.07,0.94,2.41,3.25,0.1368,9,69.6,8,62.0,0.1594
+ENT-1082,Pacific Maritime Transport Enterprises,Energy & Utilities,Latin America,AA,140919615.43,8743438.98,0.004,0.3636,2.96,2.3,0.41,10.87,0.2651,0,94.8,3,90.2,0.0452
+ENT-1083,Hyperion Energy Infrastructure Corp,Transportation & Logistics,North America,BBB,2754562413.23,48173563.4,0.0385,0.4191,2.07,1.52,2.25,7.19,0.1108,7,80.9,3,73.8,0.0775
+ENT-1084,Hyperion Industrial Robotics Ltd,Energy & Utilities,Asia-Pacific,BBB,23529685.14,1194176.99,0.0273,0.4366,1.24,1.08,2.76,7.36,0.3049,4,67.2,3,59.5,0.1127
+ENT-1085,Pacific Semiconductor Group,Manufacturing & Industrial,Latin America,A,393247900.2,25139755.96,0.0162,0.3392,1.8,1.62,1.31,8.16,0.1291,4,86.9,2,81.8,0.0382
+ENT-1086,Pacific Telecom Networks Group,Technology & Software,Western Europe,BBB,1191780325.53,34714376.22,0.0437,0.3332,1.59,1.41,1.93,5.87,0.1993,2,69.7,2,67.0,0.1638
+ENT-1087,Vertex Telecom Networks LLC,Manufacturing & Industrial,Latin America,AA,62338075.63,759239.47,0.0069,0.2737,3.01,2.31,1.37,9.86,0.3406,2,92.1,2,95.1,0.0649
+ENT-1088,Apex Biomedical Research Group,Healthcare & Life Sciences,Latin America,BBB,36066745.0,500000.0,0.0429,0.4357,1.92,1.48,1.48,3.56,0.2857,5,72.3,0,66.4,0.1364
+ENT-1089,Pacific Consumer Brands International,Telecommunications,Western Europe,A,775676420.55,31280914.33,0.0198,0.2799,2.01,1.65,1.27,11.82,0.2966,0,84.9,0,89.3,0.1039
+ENT-1090,Terra Chemical Dynamics Inc,Manufacturing & Industrial,Middle East & Africa,BBB,2243752305.5,45356432.36,0.0208,0.4256,1.22,0.94,1.62,4.56,0.3127,0,81.0,1,79.9,0.1178
+ENT-1091,Quantum Health Solutions Holdings,Manufacturing & Industrial,Western Europe,AA,3713040896.84,130127582.39,0.0049,0.3955,2.08,1.71,1.22,8.41,0.2811,0,94.4,2,98.1,0.044
+ENT-1092,Hyperion Capital Partners Corp,Financial Services,Western Europe,BBB,902658249.75,27908849.97,0.0433,0.5084,1.76,1.49,2.22,5.18,0.2782,5,74.4,1,76.6,0.1161
+ENT-1093,Terra Agri-Sciences Inc,Telecommunications,Latin America,AAA,44894848.48,1827332.8,0.0032,0.2687,3.3,2.54,0.63,16.28,0.2211,0,96.2,2,93.8,0.005
+ENT-1094,Hyperion Telecom Networks International,Transportation & Logistics,Western Europe,AA,17244595.97,961013.94,0.005,0.3085,2.49,1.67,0.8,10.21,0.2055,2,84.6,3,78.9,0.1089
+ENT-1095,Echo Secure Payments Corp,Energy & Utilities,Latin America,A,4293559570.6,231910339.91,0.0168,0.4035,2.06,1.62,1.42,9.12,0.0888,3,80.9,1,80.7,0.1119
+ENT-1096,Jupiter Chemical Dynamics Enterprises,Telecommunications,North America,BBB,11385275798.42,250000000.0,0.0277,0.3844,1.62,1.39,1.65,6.49,0.2016,1,75.2,3,72.0,0.1151
+ENT-1097,Kestrel Semiconductor International,Technology & Software,Latin America,A,23811675.66,966791.59,0.0092,0.331,2.15,1.71,1.6,5.67,0.2756,3,79.7,1,82.9,0.0618
+ENT-1098,Pacific Consumer Brands Enterprises,Transportation & Logistics,Middle East & Africa,BBB,820751754.45,30996662.06,0.0244,0.3516,2.0,1.52,1.8,5.02,0.2808,4,67.5,3,67.1,0.1764
+ENT-1099,Aegis Chemical Dynamics International,Telecommunications,Asia-Pacific,A,165587865.58,6053081.2,0.0153,0.3213,2.09,1.77,1.65,8.12,0.3393,2,83.4,4,75.8,0.1155
+ENT-1100,Kestrel Secure Payments Group,Telecommunications,Western Europe,AA,70321009.49,957686.26,0.0068,0.2449,2.05,1.38,0.5,13.85,0.2865,1,87.2,3,88.1,0.0324
+ENT-1101,Matrix Consumer Brands Inc,Manufacturing & Industrial,Western Europe,A,10024935517.86,250000000.0,0.0111,0.3543,1.88,1.47,0.95,5.93,0.1231,3,89.1,1,83.5,0.0748
+ENT-1102,Matrix Supply Chain Network PLC,Energy & Utilities,Western Europe,AA,71952154.22,5571563.13,0.0045,0.3323,3.17,2.36,0.42,10.44,0.3293,0,93.2,3,86.7,0.0629
+ENT-1103,Echo Digital Systems Ltd,Technology & Software,Western Europe,B,831217748.95,63057238.19,0.1461,0.6301,0.95,0.7,3.61,1.53,0.0432,8,59.1,12,61.3,0.1833
+ENT-1104,Horizon Maritime Transport Ltd,Retail & Consumer Goods,Middle East & Africa,BBB,5327224368.37,203978475.57,0.0268,0.4469,1.93,1.62,2.5,4.96,0.3254,5,67.0,6,59.1,0.1347
+ENT-1105,Solstice Maritime Transport Corp,Healthcare & Life Sciences,Latin America,A,211941611.99,12437306.98,0.0127,0.3397,1.76,1.31,1.07,5.51,0.261,1,85.0,1,83.0,0.0666
+ENT-1106,Titan Automotive Systems Corp,Transportation & Logistics,Latin America,BB,481983745.11,20986888.77,0.0413,0.4619,1.17,0.88,3.36,2.83,0.2624,5,67.3,1,68.6,0.1473
+ENT-1107,Apex Industrial Robotics Group,Transportation & Logistics,Latin America,BB,267253057.7,19448005.09,0.0436,0.6091,1.36,1.01,2.59,2.7,0.1384,3,55.3,4,51.0,0.1803
+ENT-1108,Jupiter Cloud Technologies Holdings,Manufacturing & Industrial,Latin America,BB,551219994.91,17524131.93,0.0705,0.5519,1.09,0.82,2.44,1.95,0.2843,6,55.6,7,57.9,0.1706
+ENT-1109,Nova Global Logistics Ltd,Retail & Consumer Goods,Latin America,B,256172541.14,4122514.87,0.1453,0.5508,0.92,0.62,3.21,1.58,0.1318,9,53.1,8,53.5,0.1798
+ENT-1110,Falcon Consumer Brands LLC,Financial Services,Latin America,A,6396975017.89,250000000.0,0.0147,0.3011,1.83,1.52,1.82,9.7,0.3229,1,86.5,0,84.0,0.0447
+ENT-1111,Vanguard Health Solutions Ltd,Technology & Software,Latin America,AA,5007606234.7,215840035.23,0.0062,0.2357,2.24,1.58,0.61,14.38,0.1571,0,90.2,1,84.0,0.0384
+ENT-1112,Genesis Renewable Power Group,Transportation & Logistics,Asia-Pacific,BBB,1374419190.64,56337700.57,0.03,0.4594,1.21,0.89,2.53,5.71,0.1812,4,80.4,5,75.8,0.1036
+ENT-1113,Infinity Consumer Brands PLC,Retail & Consumer Goods,Latin America,BBB,219167359.43,7821409.24,0.0273,0.4358,1.6,1.37,2.3,3.31,0.2721,7,69.6,1,70.4,0.1178
+ENT-1114,Matrix Maritime Transport Group,Energy & Utilities,Latin America,A,53532985.28,731459.79,0.0125,0.3226,2.6,1.98,1.2,9.06,0.1066,4,89.4,0,83.6,0.0511
+ENT-1115,Vanguard Financial Services Corp,Retail & Consumer Goods,Western Europe,A,3646442062.87,36780084.31,0.0116,0.4462,2.02,1.51,0.94,11.82,0.086,3,86.1,0,89.0,0.0721
+ENT-1116,Horizon Secure Payments Corp,Financial Services,Western Europe,BBB,27216201.12,1711053.43,0.0214,0.4817,1.9,1.57,1.35,4.36,0.1589,4,71.1,1,75.3,0.1344
+ENT-1117,Hyperion Global Logistics LLC,Healthcare & Life Sciences,Western Europe,A,213090616.71,8801532.73,0.0152,0.3531,2.51,1.94,1.99,10.96,0.1426,1,89.0,1,89.2,0.0712
+ENT-1118,Terra Semiconductor Holdings,Telecommunications,Asia-Pacific,BBB,1863993695.44,37073834.48,0.0237,0.4801,1.49,0.98,1.53,4.01,0.3672,1,74.7,0,74.2,0.1148
+ENT-1119,Summit Chemical Dynamics Inc,Technology & Software,Asia-Pacific,A,863854651.81,17055826.79,0.0188,0.4159,1.85,1.64,1.79,9.66,0.1165,3,82.2,0,77.2,0.0568
+ENT-1120,Beacon Automotive Systems Corp,Manufacturing & Industrial,Middle East & Africa,BBB,33913295.72,1749938.01,0.0433,0.4927,1.45,1.25,1.3,3.08,0.2608,6,71.2,2,70.5,0.1086
+ENT-1121,Titan Telecom Networks Holdings,Energy & Utilities,Middle East & Africa,AA,382765929.77,24036838.44,0.0067,0.2595,2.4,1.66,0.47,15.83,0.1596,3,84.3,3,84.3,0.0871
+ENT-1122,Kestrel Semiconductor Group,Energy & Utilities,Middle East & Africa,AA,71036604.22,1808320.87,0.004,0.3311,2.99,2.48,1.19,12.05,0.2762,2,86.6,3,84.9,0.046
+ENT-1123,Meridian Industrial Robotics Enterprises,Transportation & Logistics,Asia-Pacific,A,9422237700.45,250000000.0,0.0096,0.3337,2.37,1.89,1.62,6.33,0.2657,1,79.9,1,80.1,0.0743
+ENT-1124,Horizon Advanced Materials PLC,Financial Services,Latin America,AAA,19946160.17,718033.84,0.0018,0.2792,3.0,2.15,0.3,13.65,0.3394,1,90.7,2,87.6,0.0448
+ENT-1125,Nova Semiconductor Ltd,Retail & Consumer Goods,Latin America,A,2851444527.04,206575545.55,0.0195,0.4074,1.85,1.52,1.33,6.78,0.3323,3,75.6,4,78.3,0.1123
+ENT-1126,Matrix Agri-Sciences Enterprises,Telecommunications,Latin America,A,303978586.86,7869254.36,0.0187,0.3401,2.47,1.67,1.99,8.1,0.0943,2,75.6,0,68.5,0.0826
+ENT-1127,Zephyr Automotive Systems Group,Retail & Consumer Goods,Western Europe,AAA,8972240184.24,250000000.0,0.0021,0.2093,2.7,2.28,0.66,14.41,0.1322,1,89.1,1,91.0,0.0422
+ENT-1128,Atlas Energy Infrastructure International,Healthcare & Life Sciences,Latin America,AAA,25980230.75,2019968.2,0.0019,0.3038,3.25,2.42,0.34,13.58,0.2645,0,96.5,0,95.4,0.005
+ENT-1129,Titan Supply Chain Network Corp,Telecommunications,Asia-Pacific,B,3124859039.18,95300521.57,0.1584,0.6125,0.95,0.8,5.31,1.62,-0.0424,7,47.4,1,42.3,0.2165
+ENT-1130,Genesis Cloud Technologies Holdings,Retail & Consumer Goods,Asia-Pacific,A,282958982.34,14970163.06,0.0193,0.2981,1.63,1.14,1.86,9.52,0.1658,0,87.2,3,91.1,0.0489
+ENT-1131,Quantum Energy Infrastructure Group,Financial Services,Middle East & Africa,BBB,325895874.06,22467228.55,0.0377,0.4708,1.79,1.24,2.12,7.43,0.3612,1,65.7,1,59.4,0.168
+ENT-1132,Hyperion Health Solutions Holdings,Transportation & Logistics,Latin America,BB,62507764.71,2838458.12,0.082,0.5559,1.28,1.02,3.22,2.24,0.2495,6,65.8,8,67.7,0.128
+ENT-1133,Kestrel Cloud Technologies International,Telecommunications,North America,A,15965473.05,500000.0,0.0167,0.4484,1.61,1.21,1.76,6.43,0.2465,2,86.0,2,86.9,0.0623
+ENT-1134,Atlas Biomedical Research Holdings,Transportation & Logistics,Western Europe,BBB,498623220.25,34586174.64,0.0407,0.4832,1.21,1.01,2.44,6.05,0.3069,5,79.3,2,84.3,0.0886
+ENT-1135,Olympus Automotive Systems PLC,Telecommunications,Middle East & Africa,A,1872096234.1,134854027.17,0.0151,0.3283,1.95,1.61,0.8,9.34,0.1866,3,86.9,0,86.5,0.0661
+ENT-1136,Radiant Maritime Transport Enterprises,Retail & Consumer Goods,Asia-Pacific,BBB,23140198.49,1170867.78,0.0332,0.4233,1.74,1.43,2.51,4.21,0.3275,5,73.5,2,66.3,0.1094
+ENT-1137,Solstice Energy Infrastructure Group,Manufacturing & Industrial,Western Europe,BB,1700406258.22,110871670.07,0.0659,0.4856,1.0,0.73,3.07,1.72,0.1462,8,64.0,5,64.4,0.1535
+ENT-1138,Crestview Aerospace Engineering PLC,Energy & Utilities,Middle East & Africa,BBB,2863575280.54,52356274.18,0.0291,0.4848,1.55,1.23,2.18,3.83,0.1887,4,70.7,2,63.0,0.1554
+ENT-1139,Genesis Aerospace Engineering Holdings,Telecommunications,Asia-Pacific,A,478762953.84,14798941.2,0.0193,0.3019,1.97,1.71,1.81,6.3,0.3208,4,81.9,3,75.6,0.058
+ENT-1140,Nexus Semiconductor Holdings,Manufacturing & Industrial,Western Europe,BBB,414345531.33,16813954.87,0.0377,0.4684,1.34,1.08,1.5,6.38,0.2771,5,81.3,3,73.9,0.0573
+ENT-1141,Summit Chemical Dynamics Group,Financial Services,Middle East & Africa,A,94671373.9,6162998.72,0.0197,0.3242,1.97,1.7,1.12,6.09,0.3359,1,75.7,1,75.0,0.1014
+ENT-1142,Delta Energy Infrastructure Corp,Financial Services,Middle East & Africa,A,2611341648.01,41911309.46,0.0108,0.3965,2.1,1.43,1.86,7.75,0.3284,5,86.8,0,85.2,0.1014
+ENT-1143,Nexus Capital Partners International,Energy & Utilities,North America,AA,1911100784.28,44687936.81,0.005,0.2617,3.13,2.79,0.58,8.22,0.296,0,87.4,2,88.3,0.0686
+ENT-1144,Nexus Cloud Technologies International,Telecommunications,Asia-Pacific,CCC,68593267.2,2625644.04,0.2205,0.7875,0.67,0.54,5.18,0.7,0.0929,15,28.5,1,21.8,0.3263
+ENT-1145,Terra Semiconductor Inc,Transportation & Logistics,Latin America,A,2245583987.34,68133553.86,0.0174,0.2724,1.89,1.69,1.75,8.48,0.1819,1,88.1,3,89.9,0.064
+ENT-1146,Horizon Automotive Systems Corp,Technology & Software,Western Europe,AA,5302869862.16,250000000.0,0.0082,0.2478,2.43,2.18,1.17,8.27,0.0996,3,88.0,3,87.0,0.0628
+ENT-1147,Olympus Health Solutions Holdings,Energy & Utilities,Middle East & Africa,AA,1209993409.21,81731692.51,0.0053,0.3551,3.15,2.21,0.92,10.87,0.3179,0,89.5,3,91.9,0.0497
+ENT-1148,Vertex Agri-Sciences Holdings,Transportation & Logistics,Latin America,B,529080830.19,11140769.12,0.1357,0.6642,0.79,0.68,5.56,0.97,0.3426,0,43.1,6,37.5,0.2702
+ENT-1149,Aegis Biomedical Research Ltd,Manufacturing & Industrial,Middle East & Africa,BBB,41463282.5,1692640.63,0.0346,0.3184,1.99,1.69,2.06,7.35,0.2053,4,81.7,5,82.0,0.0648
+ENT-1150,Pinnacle Agri-Sciences Inc,Healthcare & Life Sciences,Western Europe,BB,261295717.3,5580319.76,0.0406,0.5143,1.27,1.05,3.98,1.7,0.2994,8,55.7,3,59.6,0.165
+ENT-1151,Luminary Health Solutions LLC,Healthcare & Life Sciences,Western Europe,BBB,11079866102.92,250000000.0,0.0356,0.3691,1.43,1.22,2.62,5.36,0.1533,1,66.9,5,68.2,0.1418
+ENT-1152,Horizon Chemical Dynamics Corp,Transportation & Logistics,Latin America,B,2105831442.22,49251668.54,0.1291,0.5676,0.95,0.79,5.3,1.93,0.0143,12,40.7,1,36.9,0.2652
+ENT-1153,Terra Biomedical Research Corp,Healthcare & Life Sciences,Asia-Pacific,AAA,48282284.22,3375009.31,0.0017,0.3174,2.56,2.08,0.69,18.66,0.1716,2,90.3,0,86.3,0.0645
+ENT-1154,Nexus Consumer Brands Inc,Healthcare & Life Sciences,Asia-Pacific,B,5073133233.28,250000000.0,0.1431,0.6295,0.76,0.67,4.94,1.45,-0.0501,5,49.8,3,46.8,0.1898
+ENT-1155,Hyperion Maritime Transport Inc,Healthcare & Life Sciences,Western Europe,A,3201828588.68,139391301.57,0.0082,0.3343,1.53,1.36,0.95,9.95,0.3718,2,87.4,0,90.3,0.0991
+ENT-1156,Matrix Capital Partners Inc,Financial Services,Western Europe,BBB,630166152.52,34014269.03,0.0324,0.4397,1.6,1.13,1.48,3.31,0.159,0,65.8,3,61.7,0.1587
+ENT-1157,Olympus Agri-Sciences Group,Telecommunications,North America,A,111373900.23,6907801.76,0.0086,0.4306,2.44,1.99,1.51,11.25,0.1356,4,76.2,0,71.9,0.1052
+ENT-1158,Matrix Advanced Materials Enterprises,Telecommunications,Latin America,A,2931542609.14,146971288.66,0.0159,0.3005,1.74,1.34,1.69,8.68,0.0898,1,88.0,0,80.3,0.0766
+ENT-1159,Atlas Agri-Sciences Corp,Transportation & Logistics,Asia-Pacific,AA,6604916296.36,250000000.0,0.0038,0.2682,2.03,1.41,1.35,12.45,0.3166,2,90.3,2,84.0,0.0352
+ENT-1160,Luminary Global Logistics Inc,Healthcare & Life Sciences,Middle East & Africa,BB,9869903642.62,250000000.0,0.0536,0.4935,1.59,1.14,3.01,3.73,0.0809,5,52.8,7,47.9,0.2017
+ENT-1161,Vanguard Energy Infrastructure Corp,Technology & Software,Latin America,A,354135641.59,18973305.25,0.0136,0.3395,2.02,1.61,1.44,10.98,0.0948,3,87.5,3,83.2,0.0624
+ENT-1162,Aegis Energy Infrastructure LLC,Transportation & Logistics,Latin America,A,64631609.51,2441509.42,0.0085,0.3056,2.4,1.73,1.78,8.72,0.344,4,83.6,2,76.2,0.0771
+ENT-1163,Atlas Cloud Technologies PLC,Transportation & Logistics,Asia-Pacific,B,45257771.06,1687710.47,0.1384,0.6882,1.0,0.71,4.95,1.0,0.2233,4,61.0,7,64.2,0.1361
+ENT-1164,Pacific Semiconductor LLC,Retail & Consumer Goods,Latin America,BBB,3841126311.46,49316649.49,0.0415,0.3565,1.8,1.53,2.29,3.42,0.2589,0,74.3,0,71.6,0.1053
+ENT-1165,Nova Biomedical Research Ltd,Financial Services,Latin America,BBB,236660003.22,13069958.63,0.0355,0.4954,1.74,1.35,1.51,3.52,0.1263,5,67.9,2,69.5,0.1455
+ENT-1166,Atlas Supply Chain Network Group,Retail & Consumer Goods,North America,BB,11319248829.44,250000000.0,0.0747,0.5078,1.21,0.81,3.0,3.78,0.3224,8,56.3,6,58.9,0.1595
+ENT-1167,Unity Advanced Materials Corp,Telecommunications,Latin America,A,4457209262.29,170590103.71,0.0089,0.3585,2.45,1.95,1.07,7.69,0.215,0,83.7,2,83.3,0.0712
+ENT-1168,Pinnacle Aerospace Engineering Enterprises,Retail & Consumer Goods,Middle East & Africa,BBB,1676758481.74,97567811.57,0.0281,0.3367,1.59,1.09,2.64,4.56,0.1263,3,65.4,1,65.7,0.1422
+ENT-1169,Nova Secure Payments International,Financial Services,Western Europe,AAA,231889349.46,7370655.07,0.003,0.2712,2.73,1.92,0.89,17.9,0.2865,0,89.5,1,81.9,0.0574
+ENT-1170,Matrix Financial Services LLC,Manufacturing & Industrial,Latin America,B,195649129.73,2490558.81,0.0825,0.5548,0.7,0.46,5.17,1.28,0.0302,12,59.8,4,64.2,0.1628
+ENT-1171,Nova Semiconductor Corp,Healthcare & Life Sciences,Western Europe,BB,844284247.75,57301162.57,0.0892,0.4492,1.57,1.17,2.97,2.35,0.2424,0,55.1,1,49.3,0.1769
+ENT-1172,Olympus Financial Services Corp,Transportation & Logistics,North America,BB,162229655.04,11011670.11,0.0755,0.4225,1.26,1.03,2.67,3.58,0.2434,7,55.3,2,49.3,0.216
+ENT-1173,Jupiter Semiconductor International,Energy & Utilities,Western Europe,AA,2801786150.85,172086979.13,0.0048,0.2652,2.91,2.23,1.13,9.48,0.3358,1,91.2,2,84.9,0.0567
+ENT-1174,Nova Biomedical Research Enterprises,Manufacturing & Industrial,Latin America,BBB,159301401.16,6705418.08,0.019,0.4641,1.69,1.12,2.32,5.1,0.0903,2,81.5,2,80.2,0.0606
+ENT-1175,Terra Cloud Technologies Holdings,Telecommunications,Middle East & Africa,BBB,401986538.63,12530452.43,0.0313,0.4149,1.71,1.3,2.21,7.13,0.1887,4,77.3,5,75.2,0.1018
+ENT-1176,Echo Telecom Networks Holdings,Technology & Software,North America,BBB,781624746.03,51947760.75,0.0309,0.5191,1.25,0.81,2.26,4.34,0.1521,2,70.3,2,62.7,0.1668
+ENT-1177,Matrix Maritime Transport PLC,Manufacturing & Industrial,North America,AA,2027896160.65,128531602.67,0.0086,0.2061,3.02,2.36,1.03,14.44,0.3259,2,86.3,3,85.2,0.0903
+ENT-1178,Nexus Biomedical Research International,Technology & Software,Latin America,CCC,57358689.28,4567208.86,0.1617,0.5507,0.42,0.31,6.4,-1.32,-0.0975,8,48.4,0,51.4,0.2294
+ENT-1179,Terra Industrial Robotics PLC,Transportation & Logistics,Latin America,AA,390587797.03,6028899.75,0.0054,0.2814,1.89,1.39,0.51,16.08,0.3643,0,82.9,2,81.7,0.0694
+ENT-1180,Pacific Aerospace Engineering Holdings,Transportation & Logistics,Western Europe,AAA,426038217.46,27954961.22,0.0031,0.16,2.15,1.61,0.41,15.02,0.1643,1,96.8,1,92.3,0.005
+ENT-1181,Vertex Renewable Power PLC,Telecommunications,Latin America,BBB,4179871257.97,202425444.71,0.0239,0.3074,1.39,1.05,2.44,3.85,0.2959,1,79.7,1,82.4,0.1
+ENT-1182,Titan Secure Payments LLC,Telecommunications,North America,BBB,505737302.32,21454433.44,0.0243,0.3667,1.46,1.15,1.48,7.13,0.2962,6,71.8,5,75.3,0.1505
+ENT-1183,Delta Advanced Materials PLC,Energy & Utilities,Latin America,BBB,92133331.09,3516845.76,0.0208,0.3416,1.9,1.57,2.19,7.03,0.255,5,72.9,4,77.1,0.0942
+ENT-1184,Beacon Advanced Materials International,Financial Services,Western Europe,B,3768064345.24,71951545.57,0.1252,0.684,0.94,0.82,5.65,1.22,0.0698,2,60.6,4,54.1,0.1406
+ENT-1185,Vertex Secure Payments LLC,Energy & Utilities,Latin America,BBB,7524216355.63,250000000.0,0.0362,0.3306,1.43,1.24,1.57,4.25,0.1189,0,76.5,5,72.0,0.1073
+ENT-1186,Luminary Supply Chain Network Ltd,Energy & Utilities,Asia-Pacific,BBB,11957261208.46,207297830.78,0.0315,0.3847,1.98,1.52,1.47,5.85,0.3112,6,65.0,0,59.4,0.1586
+ENT-1187,Titan Supply Chain Network International,Financial Services,Middle East & Africa,A,1842090861.95,66280847.94,0.0184,0.3961,2.21,1.88,1.7,5.25,0.1984,3,89.0,1,90.6,0.0922
+ENT-1188,Horizon Digital Systems Group,Healthcare & Life Sciences,North America,AAA,1434040718.9,61335054.28,0.0027,0.1671,2.09,1.71,0.78,22.17,0.2431,1,89.1,1,84.2,0.0874
+ENT-1189,Zephyr Semiconductor Inc,Telecommunications,Western Europe,BB,1719862977.35,131430581.92,0.0416,0.5567,1.13,0.99,2.73,3.31,0.3433,9,52.8,5,54.7,0.2006
+ENT-1190,Olympus Global Logistics Corp,Retail & Consumer Goods,North America,A,65193750.54,1252129.34,0.0183,0.3651,1.58,1.18,1.24,6.27,0.2107,0,80.0,0,81.6,0.0756
+ENT-1191,Nexus Industrial Robotics PLC,Transportation & Logistics,Western Europe,BBB,680359523.37,33859095.8,0.0359,0.4206,1.99,1.63,2.12,6.73,0.2618,4,69.9,5,63.9,0.1634
+ENT-1192,Kestrel Advanced Materials Ltd,Technology & Software,Western Europe,BBB,7895601427.92,250000000.0,0.0308,0.3131,1.8,1.43,2.79,4.08,0.2392,2,76.1,6,75.4,0.13
+ENT-1193,Genesis Health Solutions Ltd,Healthcare & Life Sciences,Latin America,AA,1917133333.76,102339299.69,0.0084,0.3694,2.24,1.61,1.38,13.27,0.3519,2,84.1,2,86.6,0.1099
+ENT-1194,Echo Digital Systems International,Manufacturing & Industrial,Latin America,A,1908872116.92,91085480.21,0.0087,0.388,2.26,1.99,1.4,6.61,0.0934,5,81.2,2,83.1,0.08
+ENT-1195,Luminary Global Logistics International,Manufacturing & Industrial,Middle East & Africa,B,9327481014.39,250000000.0,0.1543,0.6554,0.93,0.65,4.39,1.45,0.2888,12,50.6,10,51.4,0.1872
+ENT-1196,Falcon Health Solutions International,Retail & Consumer Goods,Middle East & Africa,CCC,508973436.92,19050916.84,0.2357,0.5827,0.72,0.56,5.72,0.98,0.1351,4,30.5,5,30.6,0.3267
+ENT-1197,Olympus Secure Payments Ltd,Manufacturing & Industrial,Latin America,AA,2999619753.36,220630778.44,0.0087,0.392,2.53,2.26,1.16,9.62,0.2231,2,91.3,1,91.6,0.0615
+ENT-1198,Olympus Aerospace Engineering Ltd,Telecommunications,North America,AA,655518226.2,41962267.54,0.006,0.2024,1.81,1.34,1.33,10.29,0.2703,3,84.9,3,87.9,0.0914
+ENT-1199,Kestrel Telecom Networks PLC,Manufacturing & Industrial,Asia-Pacific,AA,263421854.93,3172095.28,0.0059,0.3325,1.97,1.42,0.8,17.2,0.378,0,82.6,2,79.4,0.0771
+ENT-1200,Vanguard Telecom Networks Group,Financial Services,Middle East & Africa,BBB,6956100340.66,250000000.0,0.0336,0.3786,1.91,1.36,2.15,4.61,0.277,1,69.1,1,73.0,0.1107
+ENT-1201,Pinnacle Agri-Sciences International,Manufacturing & Industrial,Western Europe,A,65651818.76,835425.79,0.0084,0.285,2.45,1.77,1.94,9.07,0.211,2,83.7,3,85.6,0.065
+ENT-1202,Radiant Digital Systems Holdings,Manufacturing & Industrial,Western Europe,A,5911905401.83,250000000.0,0.0187,0.3339,2.36,1.82,1.4,6.43,0.2573,2,77.8,3,78.1,0.0943
+ENT-1203,Beacon Secure Payments Corp,Manufacturing & Industrial,Latin America,A,5362273326.55,226288833.58,0.0091,0.4153,1.55,1.29,1.73,7.47,0.3274,0,82.7,4,78.4,0.079
+ENT-1204,Meridian Automotive Systems PLC,Technology & Software,North America,AAA,35261443.69,2242214.29,0.001,0.2333,3.05,2.02,0.88,14.94,0.1713,2,91.3,2,84.0,0.0282
+ENT-1205,Nexus Supply Chain Network Ltd,Technology & Software,Western Europe,A,1996889415.49,109518384.57,0.013,0.4018,2.17,1.9,1.78,6.77,0.1614,2,76.9,3,81.7,0.1252
+ENT-1206,Delta Financial Services PLC,Manufacturing & Industrial,Western Europe,A,777617527.21,43757314.16,0.0089,0.3589,2.28,1.58,1.74,9.09,0.3657,0,75.6,0,75.4,0.0984
+ENT-1207,Luminary Cloud Technologies Group,Retail & Consumer Goods,North America,BBB,2396359078.94,41160145.08,0.0319,0.412,1.53,1.35,2.54,6.14,0.2943,0,72.8,6,73.8,0.1398
+ENT-1208,Solstice Health Solutions LLC,Healthcare & Life Sciences,Latin America,BB,93701327.94,6230666.36,0.0498,0.4629,1.13,1.01,3.91,3.25,0.2981,6,63.2,0,59.3,0.161
+ENT-1209,Summit Health Solutions Ltd,Financial Services,Asia-Pacific,A,199653029.09,14666522.45,0.0082,0.4064,1.64,1.39,1.54,10.9,0.1093,4,83.4,2,84.6,0.0838
+ENT-1210,Crestview Consumer Brands PLC,Manufacturing & Industrial,Middle East & Africa,BBB,265000651.29,8378899.16,0.031,0.3261,2.07,1.72,2.73,4.02,0.3438,6,78.7,3,78.8,0.0874
+ENT-1211,Titan Secure Payments PLC,Energy & Utilities,Western Europe,BB,428583822.15,6412647.0,0.0556,0.6045,1.5,1.34,3.46,2.12,0.1288,4,55.7,4,52.3,0.2007
+ENT-1212,Terra Global Logistics Enterprises,Retail & Consumer Goods,Middle East & Africa,A,2009937422.59,77014605.38,0.0088,0.4068,1.81,1.37,1.62,7.33,0.097,3,80.6,0,80.9,0.1046
+ENT-1213,Jupiter Secure Payments Inc,Telecommunications,Asia-Pacific,BBB,56726154.72,2228394.55,0.0383,0.3223,1.45,1.04,1.95,7.41,0.1003,0,73.8,1,78.4,0.0927
+ENT-1214,Vertex Semiconductor LLC,Financial Services,North America,A,2080835603.34,123432691.72,0.0131,0.3193,1.94,1.39,1.05,8.38,0.1606,1,79.3,1,79.1,0.0682
+ENT-1215,Olympus Cloud Technologies Inc,Energy & Utilities,Western Europe,AAA,8672783094.95,250000000.0,0.0013,0.2698,3.25,2.64,0.39,12.2,0.3695,1,90.8,0,92.0,0.0595
+ENT-1216,Delta Telecom Networks International,Retail & Consumer Goods,Middle East & Africa,A,91856116.19,4761525.27,0.0184,0.4393,1.62,1.12,1.93,10.16,0.3449,5,78.0,3,79.1,0.1156
+ENT-1217,Vertex Automotive Systems LLC,Transportation & Logistics,North America,A,16625856.01,844673.69,0.011,0.3401,2.55,1.91,1.81,6.32,0.2817,0,89.7,1,81.8,0.0516
+ENT-1218,Nova Agri-Sciences Ltd,Manufacturing & Industrial,North America,AA,2232124277.31,165218282.05,0.0056,0.2517,2.41,2.0,0.41,13.89,0.264,1,90.3,1,91.6,0.0252
+ENT-1219,Summit Aerospace Engineering International,Telecommunications,Western Europe,AA,5290122945.23,250000000.0,0.0031,0.2497,2.1,1.51,0.65,8.63,0.2177,1,91.5,0,92.2,0.0197
+ENT-1220,Summit Semiconductor PLC,Retail & Consumer Goods,North America,B,4076697678.6,250000000.0,0.1458,0.7018,0.93,0.65,4.8,1.76,0.2321,2,51.5,9,49.1,0.1884
+ENT-1221,Unity Energy Infrastructure Holdings,Energy & Utilities,Latin America,BB,139502434.88,9843784.85,0.0858,0.5864,0.92,0.78,3.02,3.68,0.2714,7,68.7,3,67.7,0.1153
+ENT-1222,Atlas Aerospace Engineering Corp,Financial Services,Asia-Pacific,BB,247523844.24,11139961.17,0.0793,0.5237,1.04,0.83,3.02,2.67,0.0885,0,56.2,6,57.5,0.156
+ENT-1223,Kestrel Capital Partners Holdings,Energy & Utilities,Middle East & Africa,A,7221450094.47,128770321.17,0.0142,0.4073,2.54,2.13,1.66,10.79,0.2139,0,87.1,3,91.1,0.0626
+ENT-1224,Infinity Automotive Systems Holdings,Healthcare & Life Sciences,Asia-Pacific,BBB,82420902.13,5108213.3,0.0201,0.492,1.95,1.37,2.51,6.54,0.2697,1,71.3,6,66.3,0.1171
+ENT-1225,Echo Agri-Sciences Corp,Manufacturing & Industrial,Western Europe,B,25205157.67,1714479.76,0.1079,0.5908,1.08,0.94,4.1,1.29,0.0865,8,40.3,12,38.3,0.2476
+ENT-1226,Delta Financial Services Group,Technology & Software,North America,BBB,196431343.56,8693334.57,0.0296,0.4629,1.98,1.55,2.48,4.34,0.2424,5,70.9,2,72.4,0.1581
+ENT-1227,Vanguard Capital Partners Corp,Retail & Consumer Goods,Western Europe,AA,1043532861.73,52959362.16,0.0037,0.2424,2.24,1.55,0.64,10.68,0.1807,3,91.7,3,96.5,0.0422
+ENT-1228,Pacific Global Logistics LLC,Manufacturing & Industrial,North America,BBB,5082091817.57,250000000.0,0.0291,0.4658,1.38,1.01,2.12,5.59,0.0866,7,81.1,0,79.5,0.1209
+ENT-1229,Delta Maritime Transport Enterprises,Energy & Utilities,North America,A,10528922912.18,250000000.0,0.0094,0.403,2.25,1.9,1.94,10.44,0.2634,2,87.9,4,85.2,0.0904
+ENT-1230,Terra Consumer Brands PLC,Energy & Utilities,Latin America,AA,1781390732.17,127742535.11,0.0074,0.3395,2.85,2.18,1.27,10.03,0.1182,2,85.7,1,84.3,0.0946
+ENT-1231,Jupiter Agri-Sciences Corp,Manufacturing & Industrial,Latin America,A,382108512.85,4178638.52,0.0129,0.3796,1.52,1.09,1.05,5.29,0.2238,3,77.7,3,76.8,0.1379
+ENT-1232,Vanguard Renewable Power International,Transportation & Logistics,Latin America,A,463922429.19,36763645.53,0.0108,0.4385,1.55,1.18,0.88,10.1,0.2625,3,85.6,2,82.4,0.0408
+ENT-1233,Beacon Cloud Technologies International,Energy & Utilities,North America,A,7479957231.58,250000000.0,0.018,0.4185,1.91,1.54,0.91,5.73,0.0946,0,83.7,1,82.8,0.0817
+ENT-1234,Pacific Agri-Sciences LLC,Energy & Utilities,Western Europe,A,1389496784.47,87670482.56,0.0082,0.2914,2.28,1.7,1.59,7.43,0.1972,2,77.4,4,77.9,0.1326
+ENT-1235,Pacific Telecom Networks Enterprises,Manufacturing & Industrial,Latin America,BBB,1027969384.73,21539422.99,0.0308,0.4576,1.44,1.01,1.77,4.09,0.1445,3,72.2,1,70.8,0.1044
+ENT-1236,Infinity Maritime Transport International,Healthcare & Life Sciences,Latin America,AAA,1574327904.96,57928833.43,0.0035,0.2819,3.59,2.58,0.68,15.43,0.3617,0,95.0,1,90.5,0.0134
+ENT-1237,Quantum Consumer Brands Ltd,Transportation & Logistics,North America,BBB,64720574.72,3344191.61,0.0251,0.4456,1.93,1.63,2.44,3.84,0.1065,3,76.9,0,74.5,0.0746
+ENT-1238,Pacific Maritime Transport PLC,Manufacturing & Industrial,Asia-Pacific,A,18786976.41,1344076.73,0.0109,0.3615,1.54,1.26,1.19,11.29,0.3464,4,79.9,4,82.6,0.1195
+ENT-1239,Echo Cloud Technologies Inc,Energy & Utilities,North America,A,708451654.14,10419845.99,0.0091,0.4498,1.86,1.56,1.77,11.01,0.3793,4,78.6,4,72.3,0.0672
+ENT-1240,Atlas Maritime Transport Inc,Retail & Consumer Goods,Western Europe,A,2827183048.43,140320582.16,0.0118,0.3809,1.76,1.15,1.72,9.37,0.3087,2,75.6,1,74.9,0.1213
+ENT-1241,Pinnacle Automotive Systems Enterprises,Retail & Consumer Goods,North America,BB,758613827.12,38436327.64,0.0895,0.5616,1.21,1.0,2.98,2.07,0.2591,1,70.6,6,70.6,0.1419
+ENT-1242,Vertex Industrial Robotics Ltd,Financial Services,Asia-Pacific,A,289956238.71,12929246.38,0.0183,0.3422,2.53,1.96,1.94,10.83,0.1887,2,88.0,4,88.2,0.0318
+ENT-1243,Olympus Industrial Robotics Inc,Healthcare & Life Sciences,Western Europe,BBB,10102290867.27,150383164.77,0.033,0.4645,1.93,1.45,1.61,3.19,0.2539,5,72.7,5,65.5,0.1372
+ENT-1244,Terra Digital Systems Inc,Retail & Consumer Goods,Middle East & Africa,AAA,47182407.91,1969890.54,0.0024,0.2871,3.82,3.09,0.87,23.46,0.2553,1,97.2,1,96.8,0.0327
+ENT-1245,Summit Semiconductor Group,Healthcare & Life Sciences,Latin America,A,21233472.61,500000.0,0.0131,0.2669,2.17,1.89,1.86,9.61,0.1434,2,87.9,4,90.3,0.0903
+ENT-1246,Vanguard Agri-Sciences Group,Financial Services,Western Europe,AA,57321111.21,1440817.18,0.0071,0.3206,2.67,2.36,1.18,9.28,0.1843,3,87.7,0,88.4,0.0916
+ENT-1247,Matrix Biomedical Research PLC,Retail & Consumer Goods,North America,A,600122967.14,39163220.39,0.013,0.2836,2.02,1.34,1.93,5.52,0.2115,4,82.9,0,87.5,0.0792
+ENT-1248,Genesis Capital Partners Ltd,Energy & Utilities,Western Europe,A,3116077471.87,102325048.61,0.0116,0.2965,1.64,1.17,1.23,9.72,0.0988,5,78.2,3,72.1,0.0912
+ENT-1249,Vanguard Health Solutions Enterprises,Healthcare & Life Sciences,Latin America,BB,42252594.19,667235.16,0.0642,0.4526,1.29,1.1,2.47,2.95,0.2317,2,54.9,6,48.0,0.1926
+ENT-1250,Vertex Consumer Brands PLC,Technology & Software,Asia-Pacific,A,3660478992.15,51204650.24,0.013,0.3417,2.3,1.83,1.6,10.44,0.3387,4,79.7,0,81.6,0.127
+ENT-1251,Olympus Supply Chain Network Inc,Financial Services,Western Europe,AAA,493981849.27,21221813.41,0.003,0.2619,3.37,2.74,0.28,22.4,0.117,2,95.7,0,94.4,0.0604
+ENT-1252,Falcon Agri-Sciences Corp,Energy & Utilities,Asia-Pacific,BB,3551417339.78,162336659.69,0.0768,0.5031,1.51,1.13,4.14,3.83,0.3025,5,57.6,7,52.0,0.1691
+ENT-1253,Aegis Maritime Transport International,Telecommunications,Latin America,AA,50919694.23,3452343.38,0.0047,0.3854,3.16,2.51,0.54,11.75,0.3193,2,86.8,3,86.0,0.092
+ENT-1254,Matrix Aerospace Engineering Enterprises,Energy & Utilities,Asia-Pacific,BB,48360356.49,2761063.13,0.051,0.4324,1.51,1.08,2.73,1.5,0.3412,3,67.9,3,69.7,0.119
+ENT-1255,Zephyr Semiconductor Group,Telecommunications,Middle East & Africa,A,156932446.67,2599485.05,0.0138,0.4341,1.54,1.11,1.05,6.67,0.3525,0,82.0,3,83.9,0.0628
+ENT-1256,Olympus Renewable Power Holdings,Transportation & Logistics,Middle East & Africa,A,265691113.38,13758481.75,0.02,0.4039,1.94,1.66,1.0,5.21,0.1413,2,80.1,3,80.8,0.0924
+ENT-1257,Pinnacle Global Logistics Holdings,Manufacturing & Industrial,Western Europe,BBB,34224328.05,1842725.59,0.0255,0.4877,2.04,1.83,2.49,6.39,0.1447,3,70.7,0,72.8,0.1612
+ENT-1258,Delta Energy Infrastructure Group,Retail & Consumer Goods,North America,AA,7141789872.55,250000000.0,0.0067,0.24,1.88,1.49,1.05,10.11,0.2469,3,93.1,2,97.2,0.0332
+ENT-1259,Apex Cloud Technologies Ltd,Technology & Software,Western Europe,A,2247720947.65,90308636.34,0.0091,0.3066,1.96,1.42,1.2,7.06,0.0924,2,84.6,0,85.1,0.0551
+ENT-1260,Titan Financial Services Holdings,Retail & Consumer Goods,North America,A,943826250.95,49054359.3,0.0141,0.3201,2.5,1.84,1.35,9.75,0.2429,3,80.2,2,76.3,0.083
+ENT-1261,Unity Renewable Power Ltd,Financial Services,Latin America,AAA,289450360.98,8183744.92,0.002,0.3169,3.87,2.7,0.46,24.07,0.0985,2,89.0,2,93.6,0.0553
+ENT-1262,Horizon Supply Chain Network Ltd,Transportation & Logistics,Latin America,A,78012360.11,3351974.06,0.0159,0.4002,2.33,1.85,1.89,10.72,0.3071,2,75.8,3,79.0,0.0943
+ENT-1263,Nexus Semiconductor Ltd,Financial Services,Asia-Pacific,BBB,4586917663.4,160421985.99,0.0385,0.3649,1.47,0.99,1.96,6.28,0.3621,3,75.3,0,78.0,0.0909
+ENT-1264,Falcon Agri-Sciences International,Retail & Consumer Goods,North America,A,32774102.25,1892728.05,0.0194,0.2774,2.31,1.87,1.5,7.73,0.1865,3,75.7,3,75.3,0.0846
+ENT-1265,Zephyr Semiconductor Holdings,Transportation & Logistics,Middle East & Africa,BB,495247764.9,29208868.1,0.0605,0.5145,1.56,1.05,2.71,3.45,0.1096,4,53.5,7,46.7,0.207
+ENT-1266,Unity Advanced Materials Inc,Transportation & Logistics,Asia-Pacific,AA,5975621035.25,250000000.0,0.0072,0.3234,3.01,2.12,1.27,15.89,0.3044,0,89.3,1,86.8,0.0783
+ENT-1267,Quantum Digital Systems PLC,Technology & Software,North America,AAA,2795471163.13,74932469.88,0.0014,0.1731,2.05,1.6,0.35,24.86,0.2523,1,89.5,1,93.2,0.0742
+ENT-1268,Crestview Advanced Materials Enterprises,Healthcare & Life Sciences,Asia-Pacific,AAA,5983064089.91,250000000.0,0.0015,0.1604,3.11,2.14,0.78,16.66,0.3539,1,94.2,2,88.0,0.0436
+ENT-1269,Radiant Secure Payments LLC,Healthcare & Life Sciences,North America,BBB,2785303210.76,81617790.99,0.0235,0.3037,1.81,1.21,1.93,5.71,0.3611,5,70.3,5,70.8,0.1421
+ENT-1270,Echo Energy Infrastructure Holdings,Technology & Software,Middle East & Africa,A,7420862840.79,250000000.0,0.0107,0.2978,2.06,1.74,0.85,9.85,0.2745,2,78.5,1,81.3,0.123
+ENT-1271,Echo Secure Payments Inc,Technology & Software,Latin America,BBB,182084626.71,5075344.25,0.0209,0.3781,1.57,1.29,2.29,3.32,0.1986,2,68.1,3,71.9,0.1185
+ENT-1272,Solstice Automotive Systems International,Retail & Consumer Goods,Asia-Pacific,AA,479395151.54,28623741.84,0.0036,0.2635,3.16,2.26,0.71,16.36,0.0951,2,88.0,1,84.1,0.048
+ENT-1273,Echo Consumer Brands Inc,Telecommunications,Latin America,AA,123043583.76,1601248.37,0.0077,0.2796,2.42,2.11,1.06,8.08,0.363,3,85.1,3,87.1,0.0746
+ENT-1274,Olympus Energy Infrastructure Corp,Retail & Consumer Goods,Middle East & Africa,A,79509889.78,3842156.74,0.0113,0.4303,1.74,1.52,1.47,10.8,0.2939,3,85.5,0,87.0,0.0622
+ENT-1275,Horizon Biomedical Research International,Telecommunications,North America,BBB,3268339421.27,249285847.19,0.0288,0.4723,1.44,1.29,1.34,5.72,0.2779,0,76.7,2,80.9,0.0859
+ENT-1276,Pinnacle Industrial Robotics Group,Energy & Utilities,North America,BBB,66456880.98,2093733.95,0.0328,0.3918,1.34,0.93,1.93,6.41,0.3494,1,66.4,5,59.7,0.1156
+ENT-1277,Titan Consumer Brands Enterprises,Financial Services,Latin America,BBB,841504032.96,18017727.25,0.0243,0.3052,1.95,1.74,1.5,4.04,0.3405,1,80.7,1,73.4,0.06
+ENT-1278,Hyperion Supply Chain Network International,Technology & Software,North America,BBB,207348603.93,2489358.9,0.0337,0.3025,1.91,1.39,1.36,5.65,0.1993,1,81.6,1,77.2,0.1033
+ENT-1279,Aegis Semiconductor PLC,Energy & Utilities,Middle East & Africa,A,6326899036.84,229226955.57,0.0146,0.2601,1.97,1.69,1.77,6.57,0.1478,4,87.3,1,80.5,0.0623
+ENT-1280,Genesis Renewable Power Holdings,Telecommunications,Latin America,A,5055663917.47,80115811.99,0.0105,0.4005,1.56,1.21,1.33,7.34,0.1984,2,82.9,4,82.3,0.1048
+ENT-1281,Nexus Telecom Networks Ltd,Retail & Consumer Goods,Middle East & Africa,BBB,41963966.47,858056.65,0.0252,0.3794,1.57,1.29,1.39,3.16,0.1976,4,76.9,2,77.2,0.0906
+ENT-1282,Pinnacle Secure Payments PLC,Energy & Utilities,Asia-Pacific,BB,5975300729.92,184099638.71,0.0515,0.4787,1.07,0.88,3.85,3.18,0.3273,3,59.9,6,61.5,0.1656
+ENT-1283,Beacon Financial Services Ltd,Manufacturing & Industrial,Asia-Pacific,BBB,91578806.03,1436511.97,0.0448,0.3344,2.09,1.87,2.49,5.97,0.2533,2,79.7,6,77.8,0.1046
+ENT-1284,Echo Supply Chain Network Inc,Technology & Software,Asia-Pacific,A,261290068.96,8653907.94,0.0148,0.4201,1.72,1.52,1.63,10.76,0.2469,1,86.7,1,82.0,0.0662
+ENT-1285,Delta Agri-Sciences Inc,Manufacturing & Industrial,Middle East & Africa,A,55235701.95,3073674.28,0.0174,0.4083,2.16,1.68,0.87,7.01,0.108,2,89.5,3,83.5,0.0843
+ENT-1286,Delta Advanced Materials Inc,Transportation & Logistics,Middle East & Africa,B,2508198331.47,26030946.75,0.0801,0.5521,0.69,0.45,4.41,2.1,0.0457,5,54.5,9,49.8,0.2075
+ENT-1287,Summit Global Logistics PLC,Manufacturing & Industrial,Western Europe,AA,33907030.72,2003798.03,0.0037,0.3994,2.06,1.64,0.81,9.26,0.0884,0,90.1,1,93.0,0.0534
+ENT-1288,Infinity Supply Chain Network International,Healthcare & Life Sciences,Western Europe,BBB,1347184368.61,81771150.17,0.0313,0.4394,1.92,1.44,2.51,5.66,0.1298,4,65.4,1,64.5,0.1772
+ENT-1289,Delta Capital Partners Inc,Manufacturing & Industrial,North America,AA,3156183859.45,222228904.12,0.0039,0.3703,3.19,2.65,1.18,17.94,0.2616,0,86.0,3,86.0,0.0767
+ENT-1290,Meridian Supply Chain Network LLC,Transportation & Logistics,Western Europe,A,2353952548.01,36996387.93,0.0191,0.3152,1.64,1.25,0.85,9.79,0.3508,4,87.6,3,91.6,0.0618
+ENT-1291,Falcon Chemical Dynamics LLC,Telecommunications,North America,A,125902572.71,9140345.26,0.0157,0.3077,1.83,1.6,0.82,7.26,0.2463,5,77.2,4,81.6,0.1108
+ENT-1292,Vertex Industrial Robotics Holdings,Telecommunications,Middle East & Africa,A,26486074.73,1282484.77,0.0126,0.3714,1.93,1.37,0.91,7.2,0.109,5,77.7,2,76.6,0.1304
+ENT-1293,Nexus Consumer Brands Holdings,Healthcare & Life Sciences,Asia-Pacific,CCC,737502916.71,49319156.06,0.1925,0.6417,0.6,0.49,6.55,-0.68,-0.0401,2,40.8,4,40.3,0.2653
+ENT-1294,Terra Aerospace Engineering PLC,Telecommunications,Latin America,BBB,2309343833.7,164194714.94,0.0315,0.4607,1.76,1.23,1.34,4.28,0.2129,5,75.5,2,70.1,0.0868
+ENT-1295,Nexus Telecom Networks Enterprises,Transportation & Logistics,Western Europe,B,30885478.74,1343344.59,0.1268,0.5962,0.65,0.43,3.47,1.5,0.145,9,45.1,9,47.8,0.2025
+ENT-1296,Hyperion Agri-Sciences LLC,Manufacturing & Industrial,North America,A,1503908501.44,41600868.66,0.0117,0.3727,2.49,2.12,1.5,10.11,0.1894,4,84.6,3,79.1,0.0907
+ENT-1297,Terra Industrial Robotics Enterprises,Energy & Utilities,Middle East & Africa,BBB,164892910.12,12168065.08,0.0186,0.3695,1.25,1.05,2.35,4.49,0.2827,0,71.7,6,69.6,0.1221
+ENT-1298,Crestview Biomedical Research Inc,Technology & Software,Asia-Pacific,B,80244608.38,1479013.56,0.1268,0.7117,0.83,0.55,4.08,1.36,-0.0271,0,54.5,2,52.4,0.1868
+ENT-1299,Aegis Advanced Materials LLC,Transportation & Logistics,North America,A,32387019.04,2326332.12,0.013,0.3275,2.23,1.7,1.58,5.43,0.3241,5,89.1,0,93.5,0.0342
+ENT-1300,Jupiter Consumer Brands PLC,Financial Services,Latin America,A,837896473.29,42499420.7,0.0128,0.3176,1.64,1.23,1.0,10.14,0.1426,0,75.9,1,79.2,0.1168
+ENT-1301,Pinnacle Telecom Networks Enterprises,Retail & Consumer Goods,Western Europe,A,3215933144.91,153784387.46,0.009,0.3632,2.5,1.87,1.16,6.0,0.1254,3,81.5,4,74.5,0.1198
+ENT-1302,Titan Health Solutions PLC,Healthcare & Life Sciences,North America,BBB,757030334.77,51471027.66,0.0202,0.4049,1.77,1.52,2.48,4.25,0.3623,1,67.1,1,71.7,0.124
+ENT-1303,Pacific Semiconductor PLC,Technology & Software,Western Europe,BBB,19635580.5,753605.68,0.0319,0.4277,2.04,1.67,2.02,6.64,0.3652,0,65.4,5,58.5,0.1754
+ENT-1304,Meridian Biomedical Research International,Technology & Software,Latin America,A,36292818.76,1480380.26,0.0157,0.3262,1.56,1.25,1.88,7.68,0.1449,2,81.6,1,79.3,0.0676
+ENT-1305,Aegis Agri-Sciences Corp,Energy & Utilities,North America,A,434443655.28,6415703.91,0.0106,0.4371,2.01,1.53,0.82,6.73,0.3399,3,77.5,2,77.6,0.11
+ENT-1306,Luminary Aerospace Engineering LLC,Transportation & Logistics,North America,AA,22339732.31,1168483.1,0.0076,0.3047,2.12,1.73,0.48,12.42,0.129,3,84.4,0,81.4,0.046
+ENT-1307,Nexus Digital Systems Group,Energy & Utilities,North America,A,458800650.56,20109507.77,0.0126,0.4178,1.66,1.29,0.87,5.5,0.2522,0,83.5,3,78.9,0.0539
+ENT-1308,Kestrel Maritime Transport International,Energy & Utilities,North America,B,2717360728.23,183595047.76,0.1522,0.5917,0.87,0.64,4.73,1.27,0.1032,8,60.6,0,63.0,0.1906
+ENT-1309,Nova Agri-Sciences Enterprises,Financial Services,Middle East & Africa,BBB,45522017.35,643563.31,0.0366,0.4603,1.24,1.09,1.44,4.29,0.2817,3,67.9,2,64.2,0.162
+ENT-1310,Kestrel Capital Partners Group,Transportation & Logistics,North America,A,1179588175.51,59655710.09,0.0083,0.4477,1.55,1.38,1.46,11.74,0.1144,4,82.4,0,75.1,0.0936
+ENT-1311,Radiant Digital Systems Ltd,Technology & Software,North America,AA,762480231.21,13622101.04,0.005,0.3563,2.41,1.94,1.05,16.44,0.1775,1,90.9,1,92.4,0.0507
+ENT-1312,Summit Health Solutions Enterprises,Financial Services,Latin America,BBB,2105994696.15,111321413.02,0.0185,0.3429,1.93,1.39,2.4,4.67,0.2366,5,66.2,0,70.6,0.1775
+ENT-1313,Terra Renewable Power Ltd,Retail & Consumer Goods,Asia-Pacific,BBB,323952165.43,18563525.04,0.0347,0.4251,1.25,1.01,2.45,7.47,0.0833,5,77.4,4,75.0,0.0793
+ENT-1314,Vanguard Industrial Robotics Inc,Retail & Consumer Goods,Western Europe,A,160280286.7,5000439.17,0.0168,0.3901,2.15,1.9,1.22,6.71,0.2768,2,78.0,4,72.9,0.0728
+ENT-1315,Beacon Automotive Systems PLC,Technology & Software,North America,BB,82232853.47,3545216.63,0.0422,0.5478,1.13,0.94,3.02,1.99,0.234,0,54.6,6,50.7,0.2254
+ENT-1316,Radiant Financial Services PLC,Technology & Software,Latin America,AAA,1551980516.15,35373642.59,0.002,0.2331,3.82,2.71,0.26,16.14,0.1114,0,89.4,2,82.2,0.0246
+ENT-1317,Terra Secure Payments LLC,Technology & Software,North America,BBB,168261718.02,3159328.2,0.0248,0.4413,1.45,1.12,1.48,5.65,0.1748,6,75.7,2,75.7,0.0979
+ENT-1318,Solstice Renewable Power Group,Healthcare & Life Sciences,North America,A,133851661.33,2880947.66,0.0102,0.4081,1.92,1.46,1.51,9.13,0.1002,2,87.5,1,89.5,0.08
+ENT-1319,Hyperion Renewable Power PLC,Manufacturing & Industrial,Middle East & Africa,BBB,16538742.76,582598.46,0.0343,0.3852,1.98,1.44,1.74,4.2,0.1798,4,74.5,6,75.1,0.1385
+ENT-1320,Unity Financial Services International,Manufacturing & Industrial,North America,BB,3509475019.76,39748939.59,0.0768,0.43,0.99,0.8,2.84,1.64,0.1213,4,52.0,3,50.5,0.2192
+ENT-1321,Hyperion Biomedical Research PLC,Financial Services,Asia-Pacific,AA,2380952958.94,150477151.17,0.0049,0.2821,2.09,1.87,1.05,17.35,0.171,2,92.2,2,93.2,0.0788
+ENT-1322,Matrix Semiconductor PLC,Transportation & Logistics,Latin America,A,35939779.83,2049272.59,0.0168,0.365,1.73,1.34,1.17,7.99,0.2736,2,86.2,2,78.3,0.0718
+ENT-1323,Aegis Telecom Networks PLC,Technology & Software,Latin America,B,3416847848.86,231541997.4,0.1436,0.5374,1.06,0.73,4.91,1.59,-0.0885,5,57.3,7,59.9,0.1566
+ENT-1324,Nova Industrial Robotics Enterprises,Manufacturing & Industrial,North America,BBB,385449787.89,18584325.59,0.043,0.4917,1.91,1.37,2.67,3.44,0.336,6,70.6,0,71.3,0.1138
+ENT-1325,Zephyr Health Solutions Ltd,Technology & Software,Middle East & Africa,A,116030916.56,1677567.3,0.0101,0.251,1.99,1.34,1.62,6.65,0.3631,5,88.1,2,90.5,0.0967
+ENT-1326,Nexus Supply Chain Network Inc,Energy & Utilities,Asia-Pacific,BBB,25944491.47,1434175.32,0.0349,0.4404,1.48,1.28,2.74,3.98,0.1064,2,68.3,2,69.1,0.1513
+ENT-1327,Radiant Consumer Brands Corp,Retail & Consumer Goods,Middle East & Africa,A,713802159.24,22521306.67,0.0137,0.4086,2.58,2.28,1.92,7.82,0.2206,4,85.6,0,81.6,0.0473
+ENT-1328,Zephyr Energy Infrastructure Corp,Energy & Utilities,Latin America,BBB,116227960.23,3815479.14,0.0199,0.377,1.98,1.4,2.34,5.83,0.339,7,67.2,4,61.0,0.112
+ENT-1329,Summit Advanced Materials LLC,Financial Services,Western Europe,BBB,10206221202.75,250000000.0,0.0276,0.3757,1.67,1.27,2.62,5.27,0.2323,7,67.4,2,62.6,0.1155
+ENT-1330,Aegis Renewable Power LLC,Energy & Utilities,Western Europe,BBB,802589376.44,31349298.17,0.0294,0.4727,1.38,1.18,2.27,4.89,0.2174,1,69.4,3,68.1,0.1249
+ENT-1331,Summit Industrial Robotics Ltd,Financial Services,Middle East & Africa,BBB,11662669711.27,250000000.0,0.0429,0.3759,1.25,0.88,1.93,3.99,0.0801,7,80.6,5,82.2,0.0693
+ENT-1332,Echo Consumer Brands PLC,Retail & Consumer Goods,Latin America,AA,23569693.25,1430257.14,0.0086,0.2861,1.97,1.53,0.75,11.75,0.2664,0,91.3,2,83.8,0.0844
+ENT-1333,Horizon Automotive Systems LLC,Retail & Consumer Goods,Latin America,AA,21496418.92,500678.96,0.0032,0.2784,2.92,2.15,0.84,14.76,0.2327,2,93.2,1,85.3,0.0617
+ENT-1334,Pacific Secure Payments Group,Healthcare & Life Sciences,North America,A,11137413222.68,250000000.0,0.0198,0.4009,1.77,1.39,1.99,11.0,0.1092,5,85.6,0,77.7,0.0658
+ENT-1335,Vanguard Chemical Dynamics International,Transportation & Logistics,Middle East & Africa,AA,3575546570.34,120185356.81,0.008,0.2001,2.23,1.58,0.63,8.68,0.1361,2,89.2,3,86.6,0.0496
+ENT-1336,Crestview Energy Infrastructure Group,Telecommunications,Western Europe,BB,6371705849.17,250000000.0,0.0565,0.4056,1.57,1.04,2.8,2.25,0.1761,7,55.3,5,56.6,0.1787
+ENT-1337,Nexus Cloud Technologies Holdings,Energy & Utilities,Western Europe,A,17232714.55,1090176.31,0.0085,0.4229,1.63,1.13,1.37,10.17,0.1217,5,81.6,1,80.3,0.1075
+ENT-1338,Horizon Consumer Brands LLC,Telecommunications,North America,B,6540137466.74,250000000.0,0.1511,0.5038,0.77,0.56,4.18,1.17,0.145,2,43.5,1,37.7,0.2277
+ENT-1339,Pacific Industrial Robotics Inc,Manufacturing & Industrial,Asia-Pacific,A,3077725468.97,190089085.18,0.0157,0.2812,2.1,1.41,1.25,7.89,0.0919,3,79.1,2,75.7,0.0666
+ENT-1340,Falcon Secure Payments LLC,Retail & Consumer Goods,Middle East & Africa,AA,206411936.31,15758432.35,0.0038,0.3527,1.95,1.75,0.78,15.75,0.1828,2,90.2,0,84.1,0.0849
+ENT-1341,Jupiter Semiconductor Holdings,Technology & Software,Western Europe,B,5655792311.05,250000000.0,0.1447,0.4686,0.8,0.58,4.85,1.11,-0.0332,3,53.1,4,50.1,0.1769
+ENT-1342,Nova Global Logistics PLC,Retail & Consumer Goods,Latin America,AA,73371376.08,2273986.7,0.0069,0.3202,2.77,2.05,1.22,10.04,0.2207,1,92.4,2,85.8,0.0723
+ENT-1343,Horizon Biomedical Research Ltd,Telecommunications,Middle East & Africa,A,1450199566.87,17075233.11,0.0163,0.3132,1.56,1.25,1.09,7.71,0.1042,0,77.2,0,72.2,0.1306
+ENT-1344,Vertex Maritime Transport Inc,Technology & Software,Asia-Pacific,A,77436697.41,5177636.94,0.0121,0.2723,2.13,1.69,1.66,6.68,0.2131,1,79.2,4,82.6,0.1142
+ENT-1345,Horizon Consumer Brands International,Retail & Consumer Goods,Western Europe,A,824375342.14,19857936.72,0.0187,0.273,1.5,1.16,1.5,9.05,0.0964,2,79.7,3,74.7,0.1133
+ENT-1346,Pinnacle Semiconductor Enterprises,Technology & Software,Asia-Pacific,B,254878997.93,8652958.98,0.1569,0.5701,0.89,0.66,5.56,1.47,0.243,2,57.9,10,60.3,0.2067
+ENT-1347,Falcon Chemical Dynamics PLC,Healthcare & Life Sciences,Asia-Pacific,CCC,2973450858.85,154907527.29,0.1941,0.7134,0.42,0.35,5.84,-1.45,-0.0719,7,34.7,6,31.3,0.2856
+ENT-1348,Nexus Health Solutions Group,Healthcare & Life Sciences,Middle East & Africa,AA,2246871146.04,108296308.34,0.0042,0.2584,2.85,2.2,0.62,17.67,0.2945,1,94.4,3,92.6,0.0653
+ENT-1349,Matrix Capital Partners Group,Energy & Utilities,Middle East & Africa,BBB,1695842777.92,46893616.5,0.0301,0.3272,1.39,0.9,1.36,7.4,0.1527,5,76.3,3,77.9,0.1348
+ENT-1350,Falcon Automotive Systems LLC,Technology & Software,Middle East & Africa,B,403146907.18,23810097.8,0.1484,0.5629,0.79,0.7,4.54,1.35,-0.0197,3,42.4,10,42.4,0.2332
+ENT-1351,Quantum Automotive Systems Corp,Financial Services,North America,AA,614822639.29,31278702.29,0.0042,0.3703,1.92,1.42,1.08,10.74,0.3283,0,91.6,0,85.1,0.0234
+ENT-1352,Meridian Secure Payments Group,Healthcare & Life Sciences,Middle East & Africa,A,478757829.98,29855877.06,0.018,0.3909,2.52,2.1,1.17,6.86,0.2889,5,77.9,1,70.6,0.1192
+ENT-1353,Vertex Agri-Sciences Corp,Telecommunications,Middle East & Africa,AA,113520606.37,5366455.49,0.0064,0.3201,2.03,1.51,1.02,17.7,0.2983,0,94.0,1,93.7,0.0174
+ENT-1354,Nexus Secure Payments Group,Telecommunications,Western Europe,BBB,967872688.52,50496668.79,0.0312,0.4163,1.5,1.17,1.6,6.62,0.1357,3,66.4,4,67.0,0.145
+ENT-1355,Unity Biomedical Research International,Energy & Utilities,North America,A,625910783.76,21462583.1,0.0192,0.4345,2.05,1.5,1.68,5.26,0.2224,5,80.0,1,72.6,0.1036
+ENT-1356,Falcon Consumer Brands Ltd,Telecommunications,Latin America,AAA,131359318.26,7499686.92,0.002,0.1859,2.56,1.96,0.53,22.18,0.305,1,93.0,2,88.3,0.066
+ENT-1357,Infinity Supply Chain Network LLC,Retail & Consumer Goods,Asia-Pacific,A,10581558025.79,250000000.0,0.0175,0.3305,1.97,1.47,1.66,8.83,0.3631,0,78.8,4,71.3,0.0962
+ENT-1358,Radiant Telecom Networks LLC,Retail & Consumer Goods,Middle East & Africa,BBB,681531306.71,22674456.92,0.0265,0.3235,1.53,1.03,2.45,7.35,0.371,6,79.7,4,80.8,0.0812
+ENT-1359,Beacon Supply Chain Network Holdings,Telecommunications,North America,BBB,315415407.18,13796652.76,0.0385,0.362,1.49,1.31,1.38,5.19,0.3538,5,75.4,5,70.6,0.1024
+ENT-1360,Matrix Consumer Brands Holdings,Technology & Software,North America,BB,630306546.66,29014241.69,0.045,0.3838,1.57,1.17,3.41,1.7,0.2849,7,70.7,6,70.3,0.1508
+ENT-1361,Pinnacle Biomedical Research Ltd,Transportation & Logistics,Western Europe,A,5374516682.6,250000000.0,0.0188,0.3747,1.64,1.19,1.04,11.36,0.3081,3,85.1,4,81.9,0.0542
+ENT-1362,Falcon Supply Chain Network PLC,Healthcare & Life Sciences,Western Europe,BBB,8264460024.06,250000000.0,0.0302,0.3556,1.6,1.38,1.61,7.28,0.1826,7,81.8,6,74.1,0.0552
+ENT-1363,Nova Advanced Materials International,Telecommunications,Asia-Pacific,A,3523018456.79,250000000.0,0.009,0.3577,2.5,1.87,1.8,5.94,0.3606,1,86.3,4,87.1,0.0602
+ENT-1364,Nova Global Logistics Inc,Transportation & Logistics,Middle East & Africa,B,94642544.54,3147061.14,0.1361,0.6566,1.16,0.81,5.27,1.76,-0.0713,2,48.5,9,44.5,0.2548
+ENT-1365,Solstice Digital Systems Holdings,Retail & Consumer Goods,North America,BBB,1817898899.14,142456437.93,0.0282,0.4764,1.59,1.38,1.57,7.26,0.1456,0,70.5,5,67.6,0.1406
+ENT-1366,Pinnacle Biomedical Research International,Telecommunications,Asia-Pacific,A,2144163950.77,55712214.32,0.0087,0.31,2.02,1.4,1.23,7.8,0.0972,1,83.7,1,83.5,0.0917
+ENT-1367,Apex Semiconductor Ltd,Technology & Software,Asia-Pacific,A,1627198910.66,63055923.52,0.0141,0.2515,2.26,1.84,0.85,7.58,0.3737,1,81.3,0,82.6,0.0955
+ENT-1368,Summit Telecom Networks PLC,Financial Services,Latin America,BB,4846456424.93,203464733.4,0.0638,0.4727,1.58,1.3,2.37,3.66,0.2242,6,53.4,4,50.8,0.2278
+ENT-1369,Hyperion Industrial Robotics Enterprises,Manufacturing & Industrial,North America,AA,3761771323.83,184470526.07,0.0033,0.3944,2.52,1.82,0.87,16.58,0.1715,1,84.5,3,80.4,0.0966
+ENT-1370,Titan Advanced Materials International,Manufacturing & Industrial,Middle East & Africa,A,68626338.01,1484590.14,0.012,0.438,1.88,1.69,1.38,6.25,0.3473,5,81.9,2,86.7,0.0559
+ENT-1371,Crestview Capital Partners Inc,Transportation & Logistics,Asia-Pacific,AA,1852004387.68,55055923.86,0.0041,0.2079,1.83,1.54,0.53,12.68,0.2618,2,87.6,2,89.8,0.0303
+ENT-1372,Quantum Financial Services PLC,Technology & Software,Western Europe,BBB,5880775363.01,236988157.7,0.0325,0.4049,1.55,1.35,2.64,4.51,0.2645,7,80.8,5,79.4,0.0885
+ENT-1373,Meridian Renewable Power LLC,Retail & Consumer Goods,Latin America,A,9115544025.4,182283545.85,0.015,0.3065,1.81,1.36,2.0,5.38,0.2536,2,76.2,0,73.9,0.1109
+ENT-1374,Solstice Capital Partners Enterprises,Technology & Software,Asia-Pacific,A,124392669.22,2001190.88,0.0116,0.4433,2.54,1.86,1.49,11.37,0.0819,2,87.2,1,91.7,0.0688
+ENT-1375,Pacific Chemical Dynamics Ltd,Manufacturing & Industrial,Middle East & Africa,AAA,83949890.69,3483589.47,0.0031,0.2966,3.99,2.88,0.58,18.93,0.2017,1,89.9,0,93.0,0.0553
+ENT-1376,Quantum Advanced Materials Enterprises,Telecommunications,Middle East & Africa,BBB,68525237.29,3293672.04,0.0368,0.4133,2.09,1.68,1.86,6.47,0.1311,6,71.5,3,66.6,0.0963
+ENT-1377,Olympus Cloud Technologies Corp,Retail & Consumer Goods,Asia-Pacific,A,465470352.61,30611723.29,0.0121,0.3911,1.71,1.43,1.08,6.0,0.1356,5,77.7,1,80.7,0.0748
+ENT-1378,Crestview Maritime Transport Group,Financial Services,Middle East & Africa,BBB,1190468515.65,84614212.39,0.0246,0.399,2.03,1.65,1.88,3.59,0.1587,0,74.9,5,68.5,0.1224
+ENT-1379,Terra Energy Infrastructure Holdings,Financial Services,Middle East & Africa,BBB,465747111.46,27157070.52,0.0406,0.3711,2.0,1.38,1.56,4.2,0.1159,6,68.9,3,71.6,0.1141
+ENT-1380,Terra Chemical Dynamics Enterprises,Transportation & Logistics,Western Europe,BBB,20662816.99,1578565.31,0.0372,0.3015,1.89,1.47,2.47,5.35,0.2723,6,78.4,5,70.4,0.1259
+ENT-1381,Kestrel Renewable Power Inc,Healthcare & Life Sciences,North America,A,413188218.85,4356518.14,0.0139,0.4473,1.81,1.36,1.62,10.7,0.2052,2,79.6,1,73.1,0.0664
+ENT-1382,Aegis Supply Chain Network Ltd,Technology & Software,Latin America,A,65317947.0,1814462.86,0.0185,0.2679,2.29,1.64,1.71,10.06,0.0822,4,82.6,3,85.9,0.0789
+ENT-1383,Infinity Maritime Transport Enterprises,Telecommunications,North America,A,113906609.15,6852899.64,0.0123,0.3036,1.98,1.33,1.7,5.09,0.2733,0,77.7,2,78.0,0.1387
+ENT-1384,Delta Advanced Materials Holdings,Retail & Consumer Goods,Latin America,BBB,67877217.99,1515137.13,0.0414,0.3977,1.32,1.14,2.52,7.43,0.3529,4,79.5,0,72.9,0.1018
+ENT-1385,Titan Supply Chain Network LLC,Telecommunications,Middle East & Africa,BBB,320331525.13,12100604.33,0.0296,0.4252,1.2,0.86,2.08,6.25,0.1322,3,74.3,1,72.1,0.0847
+ENT-1386,Luminary Agri-Sciences International,Healthcare & Life Sciences,Western Europe,A,108817174.34,8169500.78,0.0095,0.3805,1.56,1.19,1.46,7.09,0.2165,2,77.5,1,81.2,0.114
+ENT-1387,Matrix Financial Services Group,Healthcare & Life Sciences,Asia-Pacific,A,19435966.0,874003.97,0.0172,0.3031,2.39,1.7,1.79,5.6,0.3399,1,82.5,1,80.1,0.1199
+ENT-1388,Nexus Aerospace Engineering International,Retail & Consumer Goods,Latin America,AA,29904633.13,1523714.68,0.0059,0.3048,2.73,1.96,1.31,12.36,0.1187,0,91.6,2,87.7,0.0571
+ENT-1389,Radiant Financial Services Group,Manufacturing & Industrial,North America,AA,293426915.92,21408098.14,0.0038,0.2773,2.95,2.63,0.85,13.07,0.2517,1,94.1,0,88.3,0.0342
+ENT-1390,Titan Telecom Networks PLC,Technology & Software,Asia-Pacific,A,2930274323.18,152967650.58,0.0159,0.4496,1.58,1.12,1.29,7.43,0.0865,1,76.4,2,76.8,0.0834
+ENT-1391,Meridian Biomedical Research Inc,Retail & Consumer Goods,Latin America,BBB,10673985320.32,250000000.0,0.0299,0.3088,1.53,1.31,2.35,5.07,0.0965,3,72.3,5,76.4,0.1357
+ENT-1392,Luminary Cloud Technologies Holdings,Healthcare & Life Sciences,Middle East & Africa,A,502501604.22,7348518.91,0.0197,0.322,2.03,1.5,1.62,9.64,0.2946,4,79.0,2,72.3,0.0648
+ENT-1393,Delta Semiconductor Holdings,Healthcare & Life Sciences,North America,AA,1794473545.88,140140414.88,0.0089,0.2988,3.02,2.52,0.9,13.73,0.1212,3,94.2,3,92.0,0.0502
+ENT-1394,Jupiter Secure Payments Holdings,Financial Services,North America,A,82078324.69,4446466.64,0.0083,0.3941,2.07,1.66,1.56,8.69,0.2548,1,85.3,4,86.8,0.0997
+ENT-1395,Vertex Supply Chain Network International,Energy & Utilities,Western Europe,AA,219108846.54,16728023.66,0.0054,0.225,2.54,1.72,0.6,17.98,0.2424,2,85.7,3,90.3,0.0681
+ENT-1396,Apex Financial Services LLC,Transportation & Logistics,Latin America,A,4074186013.22,244831894.24,0.0162,0.4286,2.26,1.63,1.63,7.14,0.3078,1,84.3,1,78.7,0.0502
+ENT-1397,Terra Secure Payments Holdings,Manufacturing & Industrial,Asia-Pacific,BB,718246288.51,38268127.4,0.0791,0.5488,1.48,0.98,3.7,3.63,0.1658,0,64.8,0,57.2,0.1876
+ENT-1398,Nexus Secure Payments Corp,Energy & Utilities,Middle East & Africa,AA,2926964147.32,187969771.66,0.0043,0.3242,1.87,1.44,0.41,17.21,0.3728,3,84.9,3,86.7,0.0581
+ENT-1399,Jupiter Financial Services Corp,Technology & Software,Latin America,BB,695439232.59,24030508.79,0.0816,0.4984,1.54,1.36,2.53,1.51,0.3752,1,70.1,6,72.9,0.1316
+ENT-1400,Genesis Renewable Power Ltd,Telecommunications,Western Europe,A,5335455389.34,126806201.04,0.0194,0.2911,2.18,1.54,1.45,9.79,0.1371,3,82.8,2,78.7,0.0553
+ENT-1401,Nexus Renewable Power Corp,Manufacturing & Industrial,Middle East & Africa,AA,30194645.52,1195890.58,0.0078,0.2283,1.98,1.61,0.6,8.98,0.1301,0,94.0,1,90.6,0.0499
+ENT-1402,Beacon Supply Chain Network Group,Telecommunications,Middle East & Africa,BBB,1386257562.29,80107638.96,0.035,0.3585,1.24,0.95,2.64,5.56,0.3297,4,81.9,1,82.9,0.0996
+ENT-1403,Nova Capital Partners Enterprises,Telecommunications,Asia-Pacific,CCC,10898804966.23,250000000.0,0.1817,0.7896,0.45,0.38,7.23,-0.5,0.1838,11,35.8,2,35.3,0.2437
+ENT-1404,Hyperion Semiconductor PLC,Technology & Software,Latin America,A,8061934379.17,250000000.0,0.0109,0.3748,2.02,1.76,1.13,5.03,0.1288,5,80.2,1,72.6,0.0855
+ENT-1405,Luminary Chemical Dynamics Corp,Retail & Consumer Goods,Asia-Pacific,BBB,39831139.92,2692993.34,0.0243,0.4435,1.56,1.25,1.46,3.08,0.3529,1,69.6,0,72.1,0.107
+ENT-1406,Hyperion Chemical Dynamics Ltd,Transportation & Logistics,Middle East & Africa,A,1402691902.68,37277702.93,0.009,0.404,2.19,1.96,1.21,5.43,0.3003,1,82.8,3,85.0,0.0631
+ENT-1407,Pacific Health Solutions Ltd,Energy & Utilities,Western Europe,A,27842612.22,1056912.79,0.013,0.3529,2.28,2.0,0.97,5.38,0.0856,3,77.2,3,79.4,0.0883
+ENT-1408,Delta Cloud Technologies PLC,Healthcare & Life Sciences,North America,A,379030894.99,5466693.15,0.0153,0.4467,1.9,1.59,1.4,5.89,0.2547,2,79.5,1,79.8,0.1221
+ENT-1409,Luminary Telecom Networks Holdings,Telecommunications,Asia-Pacific,A,203776619.87,14747623.27,0.0178,0.393,1.77,1.55,0.99,9.39,0.0886,4,84.7,2,82.5,0.0654
+ENT-1410,Quantum Biomedical Research Corp,Manufacturing & Industrial,Asia-Pacific,AA,958864991.96,68787333.77,0.0088,0.2385,2.8,2.29,0.74,8.19,0.2869,3,94.3,1,92.0,0.0396
+ENT-1411,Solstice Biomedical Research LLC,Transportation & Logistics,Middle East & Africa,AA,2264584370.65,140968991.38,0.0039,0.3756,2.18,1.95,0.78,9.78,0.1855,0,87.7,0,87.2,0.071
+ENT-1412,Olympus Semiconductor Group,Retail & Consumer Goods,Middle East & Africa,BBB,18229471.64,872948.78,0.0194,0.4543,1.25,1.1,2.35,5.28,0.2125,1,67.2,0,70.5,0.1745
+ENT-1413,Jupiter Digital Systems LLC,Telecommunications,Western Europe,AAA,796017596.22,48040491.89,0.0029,0.1663,2.44,1.74,0.78,18.02,0.226,1,98.3,1,100.0,0.0188
+ENT-1414,Solstice Agri-Sciences PLC,Transportation & Logistics,Middle East & Africa,AA,7512387316.22,250000000.0,0.0041,0.2605,1.87,1.43,1.25,17.34,0.3598,2,83.6,2,76.0,0.1055
+ENT-1415,Terra Financial Services Holdings,Healthcare & Life Sciences,Middle East & Africa,A,1019250148.38,61198725.22,0.0132,0.3113,2.56,2.28,1.15,8.36,0.3719,4,75.1,1,68.4,0.1152
+ENT-1416,Atlas Advanced Materials International,Retail & Consumer Goods,North America,AAA,227695276.29,5794602.34,0.0026,0.3492,3.6,3.1,0.64,12.54,0.142,1,98.2,0,100.0,0.0111
+ENT-1417,Crestview Renewable Power Enterprises,Healthcare & Life Sciences,Middle East & Africa,A,15728214.73,906221.17,0.0179,0.2793,1.68,1.42,1.54,5.31,0.2668,0,79.6,4,82.1,0.0896
+ENT-1418,Echo Chemical Dynamics PLC,Telecommunications,North America,B,227033061.53,14536591.48,0.1187,0.6923,1.14,0.77,5.63,1.9,0.2561,5,44.4,6,47.5,0.2226
+ENT-1419,Infinity Automotive Systems International,Energy & Utilities,Middle East & Africa,B,20933398.97,500000.0,0.123,0.6055,0.99,0.65,5.7,0.58,-0.0356,8,40.3,10,44.4,0.2654
+ENT-1420,Aegis Renewable Power International,Technology & Software,Middle East & Africa,BB,16392597.97,785878.7,0.063,0.4998,0.95,0.78,3.21,3.41,0.2256,0,55.0,0,49.2,0.2211
+ENT-1421,Vertex Consumer Brands Corp,Telecommunications,Asia-Pacific,BBB,42901085.33,3318985.15,0.032,0.316,1.76,1.26,2.51,6.68,0.3737,7,73.5,5,76.8,0.1225
+ENT-1422,Apex Aerospace Engineering Inc,Financial Services,Latin America,BBB,3484609081.56,98430662.36,0.026,0.3001,2.07,1.82,2.45,3.36,0.2143,6,66.7,1,66.8,0.1381
+ENT-1423,Radiant Health Solutions Enterprises,Financial Services,North America,BB,71534518.97,3916094.87,0.0518,0.5513,1.51,1.03,3.93,2.98,0.1181,9,60.6,1,58.5,0.1973
+ENT-1424,Terra Renewable Power Group,Transportation & Logistics,Western Europe,BBB,25423288.8,595336.96,0.0308,0.3795,1.52,1.19,2.18,6.59,0.1823,5,78.7,5,71.4,0.104
+ENT-1425,Delta Secure Payments Ltd,Retail & Consumer Goods,Latin America,BBB,7747216425.79,250000000.0,0.0428,0.4998,1.74,1.36,2.14,7.4,0.312,7,66.8,1,61.0,0.1441
+ENT-1426,Aegis Telecom Networks Ltd,Energy & Utilities,Middle East & Africa,AA,1506651997.84,107592552.65,0.0047,0.2164,2.22,1.82,0.73,10.78,0.1353,2,88.5,3,90.0,0.0314
+ENT-1427,Delta Secure Payments PLC,Energy & Utilities,Western Europe,BBB,73409008.56,3248315.47,0.0257,0.459,2.05,1.8,2.18,5.08,0.3255,6,76.6,5,79.3,0.1036
+ENT-1428,Unity Advanced Materials LLC,Healthcare & Life Sciences,North America,AA,98667545.67,2834411.94,0.0061,0.2469,1.97,1.34,0.98,15.35,0.1765,1,82.5,1,86.4,0.0845
+ENT-1429,Vanguard Biomedical Research International,Transportation & Logistics,Middle East & Africa,A,19344230.02,1180086.85,0.0143,0.2904,1.62,1.21,1.8,11.06,0.2609,2,85.9,3,85.5,0.0831
+ENT-1430,Titan Digital Systems Holdings,Telecommunications,Asia-Pacific,AA,5385916935.08,127375705.51,0.0049,0.3241,2.69,2.22,0.51,16.49,0.2399,1,88.1,2,89.7,0.0359
+ENT-1431,Crestview Renewable Power Ltd,Financial Services,Western Europe,BBB,28353552.82,500000.0,0.0289,0.5186,1.36,1.11,1.56,6.26,0.2316,0,76.6,4,78.3,0.1433
+ENT-1432,Infinity Health Solutions Inc,Financial Services,Latin America,BBB,406170240.62,30309308.48,0.0184,0.4606,2.0,1.33,1.98,3.92,0.25,1,76.0,0,74.0,0.0956
+ENT-1433,Unity Consumer Brands Holdings,Healthcare & Life Sciences,North America,A,43576275.69,3137019.53,0.0081,0.4265,2.13,1.56,1.67,8.55,0.2297,5,76.7,3,71.8,0.0743
+ENT-1434,Delta Advanced Materials Group,Healthcare & Life Sciences,Middle East & Africa,A,27343429.46,765017.28,0.0091,0.2702,1.72,1.55,0.8,9.47,0.1224,3,88.8,0,93.2,0.0676
+ENT-1435,Pacific Automotive Systems PLC,Healthcare & Life Sciences,Asia-Pacific,AAA,5908464134.55,250000000.0,0.0018,0.3035,3.85,2.97,0.42,22.26,0.2845,0,97.8,2,100.0,0.005
+ENT-1436,Echo Advanced Materials Holdings,Transportation & Logistics,Asia-Pacific,A,485582488.03,24085834.32,0.0082,0.4061,1.9,1.43,1.77,7.65,0.0942,5,77.6,3,70.5,0.0944
+ENT-1437,Matrix Renewable Power Enterprises,Technology & Software,Latin America,A,405629833.9,4168737.31,0.014,0.3268,2.57,1.77,1.22,7.94,0.1972,5,85.0,1,84.1,0.0918
+ENT-1438,Nova Renewable Power PLC,Transportation & Logistics,Middle East & Africa,BBB,865850655.24,18767411.19,0.0395,0.4584,1.28,0.98,1.56,4.52,0.0854,2,71.8,2,71.9,0.1392
+ENT-1439,Pacific Maritime Transport Ltd,Technology & Software,Asia-Pacific,BB,63328538.83,1167381.03,0.0826,0.4176,1.58,1.36,3.2,3.95,0.1092,1,58.1,8,58.7,0.1793
+ENT-1440,Titan Chemical Dynamics Enterprises,Telecommunications,Western Europe,BB,9284096147.52,250000000.0,0.0711,0.5256,1.49,1.17,3.81,2.77,0.0987,7,59.7,4,53.0,0.1787
+ENT-1441,Jupiter Biomedical Research LLC,Telecommunications,North America,AA,113649712.8,7060123.4,0.0088,0.3436,3.19,2.63,0.69,14.72,0.2906,1,86.8,2,87.9,0.0343
+ENT-1442,Vertex Maritime Transport Enterprises,Technology & Software,Latin America,BBB,44780057.74,2220743.68,0.0316,0.303,1.53,1.22,2.57,7.0,0.2252,4,77.4,0,73.8,0.084
+ENT-1443,Kestrel Energy Infrastructure Holdings,Retail & Consumer Goods,North America,BBB,122828541.76,1953706.21,0.0365,0.4557,1.52,1.02,1.94,4.99,0.2806,2,70.4,3,73.7,0.115
+ENT-1444,Aegis Industrial Robotics Inc,Healthcare & Life Sciences,North America,CCC,198496443.24,5698457.32,0.2048,0.5783,0.46,0.35,6.79,0.84,0.1992,5,27.6,10,30.1,0.3274
+ENT-1445,Matrix Telecom Networks Corp,Energy & Utilities,Western Europe,BB,238974913.09,14063794.96,0.0534,0.6198,1.02,0.67,2.5,3.44,0.214,8,61.0,8,65.0,0.1578
+ENT-1446,Infinity Cloud Technologies Holdings,Retail & Consumer Goods,Asia-Pacific,AA,4358243256.57,250000000.0,0.0062,0.3259,2.16,1.84,1.03,13.04,0.098,0,93.9,0,88.4,0.0468
+ENT-1447,Apex Aerospace Engineering Holdings,Energy & Utilities,Latin America,BBB,504022424.31,30375980.76,0.0337,0.5085,1.25,0.85,1.56,6.11,0.2737,6,80.2,5,78.8,0.1286
+ENT-1448,Kestrel Agri-Sciences Holdings,Transportation & Logistics,Western Europe,A,3934790587.42,156901057.63,0.0158,0.3955,2.2,1.51,1.33,8.93,0.3347,3,81.7,1,79.4,0.0916
+ENT-1449,Pacific Biomedical Research Ltd,Telecommunications,Middle East & Africa,BB,739246395.19,57081106.35,0.073,0.5055,0.92,0.69,2.8,3.37,0.1425,6,56.1,0,49.7,0.1774
+ENT-1450,Radiant Biomedical Research Group,Retail & Consumer Goods,Middle East & Africa,BB,2665497918.03,163841720.22,0.0799,0.4447,1.52,1.04,2.87,2.97,0.1109,7,66.6,8,62.1,0.155
+ENT-1451,Nova Consumer Brands Inc,Telecommunications,Asia-Pacific,BBB,8104172798.17,250000000.0,0.0319,0.4704,1.71,1.35,1.47,3.57,0.2389,7,69.6,2,70.1,0.1155
+ENT-1452,Infinity Industrial Robotics PLC,Transportation & Logistics,North America,AA,11957392772.34,250000000.0,0.0056,0.2576,2.65,1.76,0.49,8.33,0.2298,1,89.8,0,91.2,0.0369
+ENT-1453,Jupiter Capital Partners Corp,Manufacturing & Industrial,Middle East & Africa,BBB,10632294918.25,250000000.0,0.0418,0.5086,1.64,1.35,2.58,4.6,0.1584,6,81.1,6,76.0,0.087
+ENT-1454,Vertex Biomedical Research LLC,Healthcare & Life Sciences,Asia-Pacific,BB,581118030.0,32250102.1,0.0777,0.5293,1.28,1.07,3.66,3.07,0.1879,5,60.1,7,55.6,0.1741
+ENT-1455,Jupiter Telecom Networks Holdings,Telecommunications,Middle East & Africa,BB,44797774.52,1316464.28,0.0433,0.5494,1.07,0.8,3.09,3.73,0.2034,9,54.9,0,59.4,0.2029
+ENT-1456,Quantum Energy Infrastructure International,Telecommunications,Latin America,CCC,4148599069.68,51930515.89,0.2356,0.636,0.68,0.49,5.55,0.9,-0.007,1,46.9,6,40.1,0.2522
+ENT-1457,Falcon Industrial Robotics LLC,Technology & Software,Middle East & Africa,BBB,2215057524.96,54621628.38,0.0325,0.4622,1.76,1.35,2.74,6.04,0.3523,3,77.4,2,70.4,0.0956
+ENT-1458,Nova Chemical Dynamics Enterprises,Financial Services,Middle East & Africa,BB,71016816.84,1284368.29,0.0563,0.4329,1.55,1.34,3.2,1.65,0.2944,5,64.5,0,63.8,0.1455
+ENT-1459,Meridian Health Solutions Corp,Financial Services,Latin America,A,10446738289.86,250000000.0,0.0161,0.2981,2.32,1.94,1.18,8.39,0.1684,0,78.9,2,78.1,0.0645
+ENT-1460,Delta Secure Payments Holdings,Energy & Utilities,Western Europe,A,5431312223.06,250000000.0,0.0153,0.3307,2.24,1.56,1.78,5.82,0.2768,1,80.1,3,78.0,0.0715
+ENT-1461,Apex Aerospace Engineering Enterprises,Telecommunications,Asia-Pacific,BBB,10137615870.09,250000000.0,0.0196,0.3828,2.03,1.57,2.29,7.11,0.3421,5,73.5,5,69.9,0.1363
+ENT-1462,Nova Global Logistics Corp,Transportation & Logistics,North America,A,79714525.84,2785025.66,0.0101,0.389,2.18,1.68,1.27,11.36,0.0887,2,86.5,0,84.3,0.0725
+ENT-1463,Vanguard Advanced Materials Group,Manufacturing & Industrial,North America,B,61994332.48,2877122.21,0.118,0.5198,1.09,0.95,5.23,0.83,-0.061,4,53.3,5,54.0,0.2039
+ENT-1464,Zephyr Chemical Dynamics Inc,Energy & Utilities,Middle East & Africa,BBB,775193500.28,30689274.91,0.0234,0.3673,1.67,1.36,2.47,6.45,0.3718,5,69.9,2,66.4,0.1524
+ENT-1465,Echo Digital Systems Holdings,Manufacturing & Industrial,Asia-Pacific,A,3549806361.66,171998219.42,0.0192,0.4396,1.58,1.21,1.53,6.79,0.2021,2,85.2,2,83.6,0.1018
+ENT-1466,Matrix Telecom Networks Inc,Retail & Consumer Goods,Latin America,A,233397513.88,17015095.08,0.0188,0.3871,2.44,1.64,1.84,7.24,0.1335,1,78.6,2,73.9,0.088
+ENT-1467,Solstice Automotive Systems Holdings,Healthcare & Life Sciences,Asia-Pacific,AA,108622316.78,5437618.73,0.0057,0.2693,2.85,2.49,1.16,11.32,0.3033,1,84.0,1,80.5,0.1005
+ENT-1468,Atlas Secure Payments Corp,Energy & Utilities,Latin America,A,22893995.71,500000.0,0.0183,0.3768,1.78,1.4,1.43,9.59,0.15,2,88.0,4,89.0,0.0291
+ENT-1469,Titan Telecom Networks Enterprises,Telecommunications,North America,A,157447768.54,7564406.42,0.0089,0.408,1.74,1.43,1.76,8.93,0.3023,4,84.9,1,81.9,0.0617
+ENT-1470,Apex Chemical Dynamics Inc,Telecommunications,Latin America,AAA,15397643.5,500000.0,0.0022,0.3203,3.6,2.58,0.37,14.96,0.1818,1,93.5,1,96.2,0.066
+ENT-1471,Quantum Automotive Systems Inc,Financial Services,Western Europe,A,27255429.79,1107788.86,0.0108,0.3082,2.35,1.57,1.79,7.99,0.2588,5,76.3,4,75.4,0.1348
+ENT-1472,Matrix Renewable Power Inc,Manufacturing & Industrial,Middle East & Africa,A,15417428.24,500000.0,0.013,0.281,2.23,1.84,1.01,11.22,0.2126,1,77.1,2,79.4,0.1164
+ENT-1473,Meridian Chemical Dynamics PLC,Financial Services,Western Europe,BB,2073725895.08,148798960.7,0.0617,0.5594,1.6,1.33,2.43,2.8,0.2562,8,55.5,8,49.8,0.2221
+ENT-1474,Echo Telecom Networks Inc,Manufacturing & Industrial,Western Europe,A,22884030.6,1187066.18,0.0152,0.2629,2.57,2.02,1.47,8.64,0.2632,3,79.0,4,82.3,0.1085
+ENT-1475,Kestrel Automotive Systems Ltd,Retail & Consumer Goods,Latin America,AA,265417820.64,7991210.0,0.0074,0.2907,3.18,2.11,0.76,12.82,0.2309,0,86.1,3,89.5,0.1013
+ENT-1476,Delta Health Solutions Enterprises,Retail & Consumer Goods,North America,BB,4419794864.91,214528759.13,0.0813,0.4528,1.18,0.86,3.13,2.21,0.3685,0,58.3,0,51.6,0.1874
+ENT-1477,Beacon Maritime Transport Holdings,Energy & Utilities,Asia-Pacific,BBB,172337899.26,8182419.66,0.0393,0.48,2.06,1.76,2.15,3.81,0.1099,2,65.9,3,68.4,0.152
+ENT-1478,Unity Supply Chain Network Corp,Manufacturing & Industrial,Latin America,AAA,537787275.8,40604255.99,0.0028,0.3119,3.6,3.18,0.74,21.72,0.1502,1,88.7,0,86.0,0.0904
+ENT-1479,Nova Digital Systems PLC,Transportation & Logistics,Latin America,AA,458243406.72,34045884.54,0.0084,0.2313,2.31,1.86,0.56,17.68,0.3544,1,84.2,1,77.3,0.1069
+ENT-1480,Genesis Automotive Systems Ltd,Energy & Utilities,Middle East & Africa,AA,242439771.97,10041757.31,0.0066,0.2143,2.12,1.87,1.31,15.81,0.0858,2,86.3,3,81.9,0.0985
+ENT-1481,Nexus Digital Systems Inc,Energy & Utilities,Asia-Pacific,BBB,24257326.29,1786076.42,0.0439,0.3171,1.68,1.22,1.89,3.81,0.2534,2,81.3,0,74.4,0.0982
+ENT-1482,Echo Telecom Networks LLC,Transportation & Logistics,Asia-Pacific,A,4580565593.21,185180679.85,0.0103,0.2882,2.35,1.68,1.72,6.44,0.1765,1,82.0,2,86.2,0.0594
+ENT-1483,Summit Semiconductor Inc,Financial Services,Asia-Pacific,BB,378322431.67,21244702.62,0.0655,0.4945,1.48,1.24,3.17,1.78,0.1146,1,68.0,8,63.0,0.122
+ENT-1484,Aegis Industrial Robotics Group,Energy & Utilities,Western Europe,AAA,1106245369.48,31390509.22,0.0012,0.1962,3.6,3.11,0.54,17.41,0.3734,2,90.2,0,86.0,0.0313
+ENT-1485,Atlas Chemical Dynamics Ltd,Telecommunications,Middle East & Africa,A,6611880309.72,250000000.0,0.0129,0.4369,1.55,1.09,1.48,9.31,0.0919,3,81.0,0,82.1,0.1007
+ENT-1486,Vertex Semiconductor Corp,Energy & Utilities,Asia-Pacific,A,28027773.13,1118248.48,0.0095,0.4395,2.02,1.47,1.72,8.49,0.173,0,87.2,4,79.3,0.0363
+ENT-1487,Atlas Agri-Sciences PLC,Transportation & Logistics,North America,A,5461338418.29,110816273.67,0.0165,0.4447,2.37,1.68,1.89,5.65,0.2204,5,88.3,2,89.1,0.076
+ENT-1488,Nexus Maritime Transport Ltd,Energy & Utilities,Middle East & Africa,B,523141239.43,19869097.09,0.1563,0.6234,0.78,0.53,5.39,1.12,0.1972,3,50.4,9,50.2,0.1826
+ENT-1489,Kestrel Automotive Systems Enterprises,Technology & Software,Latin America,A,579380157.03,23478389.07,0.017,0.4156,2.35,1.55,1.03,8.76,0.3604,1,87.5,0,83.4,0.0601
+ENT-1490,Falcon Capital Partners Group,Manufacturing & Industrial,Asia-Pacific,A,42949204.76,522896.65,0.0194,0.2981,1.76,1.18,1.91,9.06,0.2801,0,88.7,0,81.2,0.0383
+ENT-1491,Nova Capital Partners Inc,Technology & Software,Latin America,BB,2523996780.96,87191439.52,0.0588,0.5081,0.9,0.64,2.62,2.13,0.3218,1,57.6,6,56.2,0.2102
+ENT-1492,Terra Health Solutions PLC,Manufacturing & Industrial,Western Europe,A,25356484.36,886166.82,0.017,0.3601,2.4,2.14,1.75,9.23,0.228,5,75.6,3,72.6,0.0883
+ENT-1493,Nova Agri-Sciences Holdings,Telecommunications,North America,BBB,100324209.07,5116984.01,0.0338,0.3981,1.95,1.4,1.97,5.42,0.2791,0,78.3,2,78.7,0.0773
+ENT-1494,Delta Biomedical Research Corp,Transportation & Logistics,Asia-Pacific,B,194153598.55,11856280.64,0.0816,0.5054,0.89,0.77,4.57,2.08,0.1177,1,50.8,0,48.7,0.2157
+ENT-1495,Quantum Maritime Transport LLC,Manufacturing & Industrial,Asia-Pacific,A,324977165.56,3594960.43,0.0114,0.3373,2.2,1.68,1.21,7.72,0.1527,0,88.9,3,81.2,0.0925
+ENT-1496,Hyperion Cloud Technologies PLC,Technology & Software,Latin America,AA,3272235980.88,46070697.51,0.0085,0.3749,2.6,1.7,0.66,12.07,0.218,2,85.9,3,85.6,0.0731
+ENT-1497,Pacific Biomedical Research International,Healthcare & Life Sciences,Asia-Pacific,A,19334765.55,1539464.84,0.0138,0.4012,2.0,1.32,1.17,7.24,0.3315,0,84.8,3,79.4,0.1079
+ENT-1498,Titan Energy Infrastructure Ltd,Retail & Consumer Goods,North America,BBB,86247553.24,1266922.79,0.0188,0.3538,1.99,1.5,2.38,7.13,0.2024,3,68.3,4,72.1,0.1631
+ENT-1499,Hyperion Automotive Systems Enterprises,Technology & Software,Middle East & Africa,AAA,1537065660.85,76903739.64,0.0037,0.1745,3.07,2.67,0.49,18.27,0.1011,1,91.1,1,95.4,0.0354
+ENT-1500,Vanguard Consumer Brands Holdings,Telecommunications,Asia-Pacific,A,1333363030.01,28471082.2,0.0138,0.3977,2.45,1.98,1.6,5.88,0.3637,3,77.0,1,81.1,0.1224
+ENT-1501,Horizon Maritime Transport International,Technology & Software,Asia-Pacific,BBB,64869380.57,2660474.83,0.0347,0.4694,1.29,1.15,2.64,4.22,0.3268,6,73.8,5,69.9,0.1255
+ENT-1502,Kestrel Energy Infrastructure LLC,Transportation & Logistics,Latin America,BBB,233919518.2,12642260.71,0.0369,0.4564,1.25,1.08,1.99,4.18,0.1525,3,73.2,2,70.1,0.1397
+ENT-1503,Unity Financial Services Enterprises,Transportation & Logistics,Middle East & Africa,AA,361515318.43,28710834.34,0.0076,0.2421,2.5,1.77,0.81,15.8,0.3114,2,85.0,2,84.7,0.0666
+ENT-1504,Atlas Semiconductor Holdings,Retail & Consumer Goods,Western Europe,A,856382051.06,42127434.65,0.0138,0.351,1.69,1.44,1.45,5.92,0.3098,1,89.0,2,85.8,0.0335
+ENT-1505,Meridian Automotive Systems Ltd,Retail & Consumer Goods,Latin America,A,31842414.05,2400253.13,0.0102,0.3006,1.95,1.45,1.75,8.19,0.1312,5,79.0,0,79.0,0.1036
+ENT-1506,Beacon Global Logistics Inc,Manufacturing & Industrial,Western Europe,BBB,7912835526.41,250000000.0,0.0435,0.3538,1.32,0.96,2.64,7.37,0.3378,5,66.9,1,66.2,0.1175
+ENT-1507,Unity Consumer Brands Enterprises,Technology & Software,Asia-Pacific,BBB,100592464.64,7255994.31,0.0279,0.3314,1.83,1.26,2.43,7.36,0.3139,3,65.4,1,66.4,0.1762
+ENT-1508,Vanguard Cloud Technologies Inc,Manufacturing & Industrial,Latin America,AAA,371438987.7,17634422.93,0.0015,0.2145,2.88,2.47,0.85,20.17,0.1985,2,90.8,1,92.2,0.0479
+ENT-1509,Atlas Semiconductor LLC,Retail & Consumer Goods,Asia-Pacific,A,53564711.82,3047657.72,0.008,0.4112,1.59,1.11,1.26,8.39,0.1865,3,79.8,1,73.7,0.0629
+ENT-1510,Quantum Consumer Brands Holdings,Telecommunications,Asia-Pacific,AAA,1235244310.35,49670289.19,0.0033,0.3485,3.32,2.2,0.27,23.45,0.2382,0,97.1,0,100.0,0.0581
+ENT-1511,Terra Semiconductor International,Telecommunications,Asia-Pacific,BBB,146589717.03,11335862.15,0.0328,0.3141,1.78,1.42,2.64,5.94,0.1847,0,81.4,0,79.0,0.0736
+ENT-1512,Horizon Biomedical Research Corp,Energy & Utilities,North America,BB,19675022.31,1455182.84,0.0816,0.4514,1.45,0.95,4.13,2.82,0.171,5,59.3,7,64.2,0.1456
+ENT-1513,Quantum Secure Payments Inc,Technology & Software,Western Europe,BBB,289330020.4,22111796.62,0.0246,0.4171,1.63,1.35,1.4,3.87,0.1444,2,77.5,3,77.0,0.0851
+ENT-1514,Genesis Financial Services LLC,Retail & Consumer Goods,Middle East & Africa,BB,8153431330.86,250000000.0,0.0576,0.4362,0.93,0.67,3.51,2.83,0.3632,5,59.9,6,58.3,0.1763
+ENT-1515,Zephyr Consumer Brands Holdings,Transportation & Logistics,Western Europe,A,313945529.99,13485514.48,0.0165,0.4381,1.86,1.23,1.4,8.81,0.1305,1,86.4,0,90.7,0.0482
+ENT-1516,Genesis Secure Payments Ltd,Transportation & Logistics,North America,BB,1664560868.74,69527474.82,0.067,0.5839,1.24,0.92,3.19,2.95,0.1367,1,70.0,7,63.3,0.1423
+ENT-1517,Hyperion Consumer Brands Ltd,Transportation & Logistics,North America,AA,25383861.64,1190801.69,0.0054,0.3178,1.92,1.45,0.57,17.87,0.2483,2,90.9,2,84.1,0.0847
+ENT-1518,Infinity Aerospace Engineering Group,Energy & Utilities,Middle East & Africa,A,254943860.49,14146955.79,0.0083,0.4121,2.09,1.5,0.87,6.14,0.3485,0,85.3,0,78.2,0.0871
+ENT-1519,Summit Supply Chain Network Holdings,Telecommunications,North America,BBB,224103087.57,7945082.27,0.0239,0.4473,2.07,1.44,2.2,4.91,0.214,4,69.3,2,67.6,0.1408
+ENT-1520,Luminary Cloud Technologies Enterprises,Retail & Consumer Goods,Middle East & Africa,A,50570540.48,809822.84,0.0166,0.2892,2.26,1.69,1.3,8.28,0.1903,2,76.5,1,77.1,0.1206
+ENT-1521,Titan Agri-Sciences Ltd,Energy & Utilities,Asia-Pacific,A,324945545.02,7649642.5,0.0105,0.2546,2.49,1.75,1.07,6.96,0.1182,3,84.6,0,78.3,0.0867
+ENT-1522,Radiant Consumer Brands LLC,Manufacturing & Industrial,Middle East & Africa,A,1703442608.25,83502300.35,0.0111,0.3802,1.63,1.28,1.32,6.88,0.2612,3,88.1,2,85.4,0.0434
+ENT-1523,Atlas Capital Partners PLC,Energy & Utilities,Western Europe,A,369821542.21,13206119.84,0.019,0.3237,1.91,1.42,1.8,9.56,0.2643,4,80.0,4,72.5,0.121
+ENT-1524,Summit Capital Partners Enterprises,Transportation & Logistics,Latin America,A,214905498.92,9628133.76,0.016,0.2526,2.46,1.87,1.21,5.97,0.2118,4,82.4,0,85.8,0.1073
+ENT-1525,Delta Automotive Systems Ltd,Transportation & Logistics,Western Europe,B,5517367559.35,250000000.0,0.1487,0.6372,0.7,0.5,3.75,1.53,0.1266,12,59.1,7,56.4,0.179
+ENT-1526,Nova Secure Payments Enterprises,Technology & Software,Middle East & Africa,CCC,95068745.8,6223899.26,0.1793,0.7544,0.53,0.46,6.18,-1.02,0.001,9,37.3,11,39.0,0.2857
+ENT-1527,Falcon Cloud Technologies Group,Technology & Software,Western Europe,A,1860722073.48,104284567.92,0.0195,0.4362,2.37,1.97,1.13,10.92,0.2083,4,79.1,2,82.0,0.074
+ENT-1528,Pacific Consumer Brands Corp,Retail & Consumer Goods,North America,A,403134217.22,5065010.08,0.0103,0.4153,2.41,1.74,1.85,10.4,0.2054,4,86.2,0,88.3,0.0529
+ENT-1529,Nova Capital Partners Holdings,Transportation & Logistics,Middle East & Africa,BB,1658375024.64,126363446.52,0.0604,0.5389,1.23,0.99,3.1,1.97,0.2324,9,62.6,7,55.0,0.1738
+ENT-1530,Nova Maritime Transport International,Transportation & Logistics,Latin America,A,106106698.75,3977000.3,0.0121,0.4164,1.8,1.5,0.91,11.66,0.2667,5,85.6,3,85.2,0.0876
+ENT-1531,Nova Chemical Dynamics Inc,Financial Services,Western Europe,B,1675758863.43,95559393.28,0.1115,0.4503,0.67,0.53,4.96,1.21,0.2288,0,51.5,11,46.0,0.2328
+ENT-1532,Nexus Renewable Power Group,Healthcare & Life Sciences,Middle East & Africa,BBB,5938350457.05,108250234.65,0.0447,0.3461,1.21,1.09,1.72,6.01,0.133,0,74.9,6,71.1,0.1273
+ENT-1533,Nexus Chemical Dynamics International,Telecommunications,Middle East & Africa,AA,977076403.14,32782403.0,0.0043,0.2626,2.05,1.79,0.8,10.45,0.2145,0,86.2,0,90.8,0.0659
+ENT-1534,Crestview Automotive Systems Inc,Manufacturing & Industrial,Middle East & Africa,BB,658935160.47,13841919.18,0.0745,0.5032,1.36,1.19,3.08,3.75,0.3052,0,61.8,7,58.0,0.2017
+ENT-1535,Summit Financial Services Corp,Telecommunications,Middle East & Africa,BBB,20108636.22,660840.84,0.0348,0.3124,1.22,0.93,1.8,4.97,0.1588,7,67.8,0,66.5,0.1228
+ENT-1536,Infinity Maritime Transport Inc,Healthcare & Life Sciences,Asia-Pacific,A,783723501.27,11799783.65,0.0098,0.2646,2.39,2.0,1.7,10.01,0.2808,2,82.2,4,78.1,0.0734
+ENT-1537,Meridian Consumer Brands Group,Retail & Consumer Goods,North America,BBB,18508946.34,1126357.71,0.0406,0.3913,1.89,1.31,1.78,7.38,0.3759,1,73.7,6,72.5,0.1056
+ENT-1538,Infinity Automotive Systems PLC,Transportation & Logistics,Western Europe,A,7490830414.61,165331970.03,0.015,0.3611,2.31,1.79,1.13,6.19,0.2662,4,85.8,1,87.4,0.0467
+ENT-1539,Delta Aerospace Engineering Holdings,Financial Services,Middle East & Africa,BB,735932238.14,13893719.83,0.0631,0.5828,1.53,1.1,3.62,1.75,0.0901,7,63.2,3,65.5,0.151
+ENT-1540,Falcon Supply Chain Network Group,Manufacturing & Industrial,Middle East & Africa,AAA,369980431.77,4110389.43,0.0013,0.2153,2.87,2.07,0.61,12.72,0.1234,1,95.6,0,95.9,0.005
+ENT-1541,Matrix Advanced Materials Inc,Technology & Software,Latin America,A,49105135.68,867910.67,0.0148,0.4357,1.56,1.18,1.65,8.24,0.3219,2,77.7,0,80.2,0.0753
+ENT-1542,Pinnacle Energy Infrastructure LLC,Technology & Software,Western Europe,BBB,6781177777.02,166855177.94,0.036,0.3173,1.74,1.2,2.4,4.36,0.219,0,75.2,3,76.8,0.1004
+ENT-1543,Echo Supply Chain Network Holdings,Transportation & Logistics,Latin America,BBB,43211684.71,2513547.48,0.0215,0.3936,1.42,1.19,1.69,6.97,0.3475,6,68.3,4,65.4,0.1567
+ENT-1544,Echo Automotive Systems Group,Transportation & Logistics,Latin America,BBB,976457886.2,29076826.68,0.0282,0.3226,1.85,1.44,2.36,4.12,0.1773,6,70.7,1,67.1,0.1534
+ENT-1545,Aegis Health Solutions Inc,Transportation & Logistics,Middle East & Africa,BB,479209768.35,20071758.01,0.0415,0.591,0.91,0.81,3.18,2.35,0.3573,0,52.5,2,47.9,0.2368
+ENT-1546,Matrix Industrial Robotics International,Telecommunications,Asia-Pacific,BBB,7716778568.54,187046302.4,0.022,0.4883,1.81,1.26,1.7,6.6,0.2162,6,76.4,3,73.4,0.1437
+ENT-1547,Apex Health Solutions International,Retail & Consumer Goods,North America,A,442975488.84,30613222.74,0.0109,0.333,2.18,1.68,1.35,7.54,0.256,4,84.4,2,83.8,0.0672
+ENT-1548,Unity Aerospace Engineering Ltd,Healthcare & Life Sciences,Latin America,A,235361540.72,14340708.72,0.0134,0.4213,2.54,1.86,1.47,5.67,0.1401,3,81.2,4,75.3,0.0871
+ENT-1549,Matrix Supply Chain Network Group,Retail & Consumer Goods,Middle East & Africa,BBB,1529799248.34,56319338.85,0.0415,0.425,1.6,1.07,2.0,6.69,0.2644,7,79.1,1,72.6,0.0646
+ENT-1550,Quantum Renewable Power Corp,Energy & Utilities,Latin America,A,1593750771.01,104100920.89,0.0115,0.3491,1.96,1.48,1.08,5.95,0.139,1,75.8,4,75.3,0.105
+ENT-1551,Vanguard Semiconductor LLC,Telecommunications,Latin America,A,50952906.04,2043408.93,0.0198,0.3096,2.16,1.82,1.7,7.3,0.2633,4,88.1,1,85.8,0.0433
+ENT-1552,Apex Maritime Transport Holdings,Technology & Software,Asia-Pacific,A,241961642.9,15066217.76,0.0091,0.3525,2.12,1.64,1.68,7.69,0.3635,5,82.2,0,80.7,0.1073
+ENT-1553,Falcon Energy Infrastructure Inc,Retail & Consumer Goods,Asia-Pacific,A,398461732.32,27658715.49,0.0165,0.3481,1.78,1.55,1.49,6.55,0.1607,3,87.0,0,91.9,0.0411
+ENT-1554,Atlas Industrial Robotics LLC,Financial Services,Latin America,BB,209971102.35,9334293.25,0.084,0.4791,1.28,0.85,2.2,2.11,0.2842,3,54.4,5,54.8,0.2122
+ENT-1555,Olympus Digital Systems Ltd,Energy & Utilities,North America,AA,25535408.67,1936293.67,0.0046,0.3707,3.01,2.54,0.57,16.22,0.3108,3,89.8,2,85.2,0.0293
+ENT-1556,Apex Aerospace Engineering International,Energy & Utilities,Western Europe,A,750164048.0,26371063.9,0.0137,0.3227,2.21,1.93,1.0,7.67,0.1223,5,84.4,1,88.5,0.0619
+ENT-1557,Jupiter Advanced Materials International,Financial Services,North America,B,22895413.33,1195391.75,0.0846,0.6913,0.92,0.75,5.36,0.76,-0.0826,12,59.3,7,53.0,0.1756
+ENT-1558,Quantum Semiconductor Ltd,Technology & Software,Latin America,BBB,18450226.74,539534.37,0.0189,0.3925,2.01,1.8,2.26,3.73,0.3518,4,73.8,0,77.8,0.1378
+ENT-1559,Horizon Digital Systems Ltd,Energy & Utilities,North America,BBB,1717539205.18,41261796.85,0.0237,0.4514,1.4,1.06,2.47,6.53,0.216,4,78.5,6,79.0,0.082
+ENT-1560,Beacon Supply Chain Network PLC,Manufacturing & Industrial,Western Europe,A,123056190.07,2236704.69,0.0113,0.2919,2.0,1.75,0.93,10.04,0.2862,1,76.4,0,73.7,0.0788
+ENT-1561,Titan Capital Partners LLC,Energy & Utilities,Middle East & Africa,BB,27808626.52,1590111.58,0.0428,0.5415,1.49,1.12,3.24,2.5,0.1701,5,68.1,4,62.8,0.1251
+ENT-1562,Apex Agri-Sciences LLC,Telecommunications,Asia-Pacific,A,769954814.65,32191473.82,0.0169,0.2927,1.51,1.27,1.79,5.42,0.2633,0,80.7,4,84.1,0.1168
+ENT-1563,Infinity Secure Payments LLC,Transportation & Logistics,Middle East & Africa,BBB,90609574.36,6055644.0,0.0324,0.3116,1.61,1.43,2.63,3.46,0.3032,6,78.7,2,76.8,0.115
+ENT-1564,Aegis Aerospace Engineering Inc,Energy & Utilities,Western Europe,A,31882389.62,1894189.24,0.0189,0.3805,2.35,1.74,1.02,9.5,0.1783,3,87.9,3,85.5,0.0562
+ENT-1565,Crestview Automotive Systems Ltd,Retail & Consumer Goods,Latin America,B,41749892.86,500000.0,0.099,0.6715,0.73,0.52,3.54,1.72,-0.0689,8,47.3,5,46.5,0.2419
+ENT-1566,Pacific Capital Partners Holdings,Manufacturing & Industrial,North America,BBB,7567344350.32,250000000.0,0.0278,0.4711,1.86,1.62,1.97,5.39,0.2047,7,79.5,3,74.6,0.0881
+ENT-1567,Kestrel Financial Services Group,Financial Services,Asia-Pacific,AA,637888229.49,12384158.21,0.0049,0.3827,2.37,1.98,0.51,10.48,0.3222,0,91.9,3,96.3,0.0761
+ENT-1568,Infinity Advanced Materials Enterprises,Healthcare & Life Sciences,Latin America,B,262039107.42,6242597.19,0.1301,0.6349,0.68,0.58,3.25,1.32,0.049,8,56.3,11,59.0,0.1964
+ENT-1569,Kestrel Cloud Technologies Ltd,Energy & Utilities,Western Europe,BB,11174707352.73,250000000.0,0.0892,0.3869,1.14,0.77,2.72,3.6,0.0897,1,62.4,5,67.0,0.1566
+ENT-1570,Nova Secure Payments Inc,Financial Services,Asia-Pacific,BBB,22937241.05,865589.87,0.044,0.4186,1.46,0.99,2.36,5.9,0.1922,1,81.2,5,77.1,0.1197
+ENT-1571,Pacific Capital Partners Ltd,Transportation & Logistics,Asia-Pacific,A,80984878.55,3838313.04,0.0179,0.2706,2.54,2.16,1.02,9.98,0.1955,2,81.0,4,79.2,0.0904
+ENT-1572,Genesis Cloud Technologies Inc,Financial Services,Middle East & Africa,BBB,7914794947.86,129704621.42,0.0185,0.4773,1.3,1.17,2.23,5.93,0.1397,6,69.1,3,72.9,0.1724
+ENT-1573,Horizon Global Logistics Group,Healthcare & Life Sciences,North America,AA,36766525.72,512823.0,0.0082,0.2589,1.8,1.27,0.74,17.91,0.2371,0,84.7,1,81.0,0.0426
+ENT-1574,Nexus Secure Payments Enterprises,Transportation & Logistics,Latin America,AA,1564260721.08,28809879.86,0.0044,0.2701,2.86,2.28,1.09,13.67,0.2851,0,82.0,1,75.4,0.0804
+ENT-1575,Unity Health Solutions Enterprises,Technology & Software,Asia-Pacific,BBB,275172607.1,20989885.41,0.0306,0.4925,1.93,1.73,2.69,7.04,0.2995,1,71.2,2,67.3,0.1159
+ENT-1576,Atlas Biomedical Research Inc,Healthcare & Life Sciences,Western Europe,BBB,5075592642.52,119178540.6,0.0206,0.4975,1.51,1.19,1.84,3.57,0.2568,6,73.9,4,72.7,0.1071
+ENT-1577,Pacific Telecom Networks Inc,Manufacturing & Industrial,Latin America,AA,289386169.95,8024012.09,0.0085,0.2204,1.87,1.22,0.73,14.6,0.2991,2,87.9,0,84.6,0.0751
+ENT-1578,Kestrel Renewable Power Holdings,Energy & Utilities,Latin America,AAA,204400679.84,13359521.62,0.0034,0.2932,2.41,1.72,0.9,13.34,0.1342,0,89.4,1,83.8,0.0755
+ENT-1579,Crestview Consumer Brands Corp,Manufacturing & Industrial,Western Europe,AAA,3528267956.68,38727790.86,0.003,0.223,3.22,2.65,0.44,13.4,0.1009,0,94.5,1,93.1,0.0316
+ENT-1580,Crestview Global Logistics LLC,Financial Services,Western Europe,A,17900658.08,599475.21,0.0197,0.4247,1.86,1.48,1.82,8.09,0.0854,4,76.1,1,73.8,0.1305
+ENT-1581,Luminary Chemical Dynamics PLC,Technology & Software,Asia-Pacific,AA,487792882.68,33436688.24,0.008,0.3912,2.78,1.95,0.42,12.79,0.2341,0,85.1,3,84.7,0.0931
+ENT-1582,Crestview Global Logistics PLC,Transportation & Logistics,Asia-Pacific,CCC,2385129666.21,156355431.73,0.2301,0.8458,0.72,0.62,7.34,0.92,0.0716,11,27.0,6,21.4,0.2959
+ENT-1583,Horizon Energy Infrastructure Inc,Telecommunications,Latin America,BBB,1746498912.26,43251894.54,0.0362,0.4549,1.7,1.49,1.47,3.8,0.2086,1,67.2,1,64.4,0.1311
+ENT-1584,Summit Renewable Power International,Technology & Software,Asia-Pacific,AA,141126425.29,7417203.35,0.0065,0.2327,1.97,1.29,0.41,16.8,0.0935,3,91.5,2,84.8,0.0445
+ENT-1585,Crestview Digital Systems Enterprises,Financial Services,North America,B,3959778125.4,175336133.18,0.141,0.675,0.81,0.71,4.42,1.4,0.3499,3,58.6,5,58.7,0.1949
+ENT-1586,Apex Digital Systems Corp,Telecommunications,Asia-Pacific,BBB,9680164989.12,250000000.0,0.0301,0.3138,1.63,1.34,2.21,5.42,0.2206,2,70.0,2,68.5,0.1112
+ENT-1587,Meridian Financial Services Ltd,Healthcare & Life Sciences,Asia-Pacific,A,130807380.12,6684165.05,0.0088,0.4159,2.12,1.73,1.64,7.04,0.2211,4,89.3,2,91.0,0.0351
+ENT-1588,Kestrel Maritime Transport PLC,Manufacturing & Industrial,North America,AAA,713007982.23,24988740.54,0.0018,0.3114,2.73,1.99,0.79,23.0,0.1869,1,97.2,2,94.7,0.005
+ENT-1589,Summit Semiconductor Enterprises,Financial Services,Western Europe,AAA,495742746.3,16897532.56,0.004,0.3045,3.52,3.13,0.82,16.14,0.1298,0,96.2,1,96.4,0.0588
+ENT-1590,Unity Health Solutions International,Manufacturing & Industrial,Asia-Pacific,A,2819231113.43,81148143.33,0.0164,0.2503,2.46,1.62,1.66,5.32,0.1599,3,82.5,4,80.4,0.0515
+ENT-1591,Pacific Health Solutions Enterprises,Telecommunications,North America,BBB,238646930.91,6897873.0,0.0236,0.4439,1.57,1.09,2.33,5.54,0.3376,7,67.0,1,67.8,0.1201
+ENT-1592,Summit Aerospace Engineering Group,Manufacturing & Industrial,Middle East & Africa,BBB,287040231.87,21857807.96,0.0218,0.4414,1.54,1.37,1.79,7.33,0.3504,6,69.6,5,74.5,0.1193
+ENT-1593,Kestrel Consumer Brands PLC,Telecommunications,Western Europe,A,485537465.31,14879382.78,0.0082,0.294,1.81,1.38,1.01,11.11,0.2915,0,76.3,1,76.8,0.1417
+ENT-1594,Kestrel Capital Partners Corp,Transportation & Logistics,North America,AAA,78679478.29,5896665.25,0.0038,0.2941,3.53,2.38,0.56,15.01,0.1344,0,96.9,0,100.0,0.0054
+ENT-1595,Jupiter Financial Services PLC,Financial Services,Asia-Pacific,CCC,11550446017.06,250000000.0,0.1721,0.6448,0.61,0.44,5.34,1.03,-0.031,16,43.3,16,37.7,0.2524
+ENT-1596,Apex Telecom Networks Group,Energy & Utilities,Western Europe,BBB,1491096563.74,48240226.82,0.0248,0.5103,2.03,1.55,2.57,5.04,0.2073,5,67.7,6,66.7,0.1108
+ENT-1597,Pinnacle Capital Partners Group,Energy & Utilities,North America,A,2782522424.04,160282262.33,0.0156,0.4319,1.52,1.2,1.74,8.79,0.1772,3,77.0,4,75.1,0.1335
+ENT-1598,Jupiter Advanced Materials Ltd,Retail & Consumer Goods,Latin America,BBB,1359351097.3,90122640.76,0.0358,0.3876,1.66,1.41,1.86,4.75,0.1087,4,80.5,2,80.9,0.0869
+ENT-1599,Atlas Automotive Systems Inc,Technology & Software,Latin America,A,1408936406.95,20706520.25,0.0151,0.4044,2.41,1.67,1.88,9.59,0.3446,4,82.3,1,80.6,0.0728
+ENT-1600,Zephyr Capital Partners Holdings,Manufacturing & Industrial,Asia-Pacific,AA,8743737081.21,250000000.0,0.004,0.2397,2.19,1.97,0.67,11.29,0.2778,3,85.8,1,79.9,0.0587
+ENT-1601,Pacific Telecom Networks PLC,Retail & Consumer Goods,Latin America,AA,16991197.08,1126939.77,0.0038,0.3552,2.92,2.29,0.71,9.45,0.301,0,89.8,2,81.9,0.0857
+ENT-1602,Matrix Digital Systems Inc,Healthcare & Life Sciences,Western Europe,AAA,174165347.8,6651342.49,0.001,0.2494,3.51,3.0,0.82,18.34,0.2692,0,88.9,1,92.3,0.0537
+ENT-1603,Beacon Capital Partners Inc,Technology & Software,Latin America,B,11463967996.72,199776190.54,0.0986,0.7066,1.17,0.79,3.24,0.77,0.3482,8,44.0,2,47.0,0.2054
+ENT-1604,Solstice Supply Chain Network Ltd,Energy & Utilities,Middle East & Africa,BBB,95569885.53,6724626.3,0.0257,0.4511,1.81,1.28,1.35,4.84,0.1668,2,78.8,2,76.7,0.1073
+ENT-1605,Radiant Aerospace Engineering International,Manufacturing & Industrial,Latin America,BBB,3779251528.66,150225886.91,0.0254,0.3583,1.68,1.28,1.96,3.41,0.2956,2,68.6,3,66.0,0.1215
+ENT-1606,Luminary Semiconductor Inc,Technology & Software,Asia-Pacific,BBB,179672975.48,7442741.1,0.0325,0.3448,1.34,1.17,1.95,4.85,0.0907,7,73.5,5,72.8,0.1355
+ENT-1607,Meridian Aerospace Engineering PLC,Technology & Software,North America,AA,80968802.18,5404759.25,0.0087,0.2272,2.5,1.76,0.46,11.26,0.1231,3,91.2,2,85.1,0.0158
+ENT-1608,Kestrel Industrial Robotics Ltd,Financial Services,Asia-Pacific,BB,48707907.81,2554007.18,0.0568,0.5205,1.12,0.75,2.65,1.97,0.2084,1,65.2,5,65.1,0.1866
+ENT-1609,Apex Renewable Power Holdings,Technology & Software,Western Europe,BBB,349902945.44,17543473.7,0.0431,0.4822,1.49,1.06,1.69,5.27,0.3032,5,73.6,2,75.0,0.142
+ENT-1610,Unity Industrial Robotics Inc,Manufacturing & Industrial,North America,A,1270890235.3,50659506.06,0.0187,0.419,2.08,1.71,1.86,8.47,0.174,3,86.3,0,90.6,0.0931
+ENT-1611,Vanguard Health Solutions Holdings,Telecommunications,Western Europe,BBB,1284467361.73,32062640.95,0.0357,0.3934,1.34,1.14,2.07,7.4,0.1645,1,73.2,0,66.8,0.117
+ENT-1612,Atlas Supply Chain Network Inc,Financial Services,Latin America,A,43804226.33,1303214.76,0.0108,0.3968,1.53,1.23,1.71,8.37,0.3595,3,85.6,4,80.2,0.092
+ENT-1613,Pinnacle Chemical Dynamics Ltd,Transportation & Logistics,Latin America,BB,167834057.43,4185011.83,0.0593,0.5575,1.19,0.99,2.43,3.52,0.156,5,57.0,4,59.3,0.1609
+ENT-1614,Vanguard Telecom Networks Ltd,Technology & Software,Asia-Pacific,A,46779942.95,1301906.16,0.0112,0.3612,1.95,1.73,0.95,11.82,0.1492,3,86.6,1,89.2,0.056
+ENT-1615,Infinity Chemical Dynamics Group,Manufacturing & Industrial,Latin America,AA,276311059.04,11510902.05,0.0031,0.2234,2.06,1.4,0.74,17.65,0.2328,3,90.2,3,86.4,0.0208
+ENT-1616,Echo Renewable Power Holdings,Manufacturing & Industrial,Latin America,A,380234679.31,8003236.88,0.0172,0.3485,1.87,1.28,1.46,10.27,0.1646,0,78.3,1,71.9,0.081
+ENT-1617,Vertex Financial Services International,Financial Services,North America,A,4279221302.58,146514647.29,0.0159,0.3919,2.14,1.58,1.49,7.4,0.1052,5,89.9,1,87.3,0.0474
+ENT-1618,Matrix Telecom Networks LLC,Transportation & Logistics,Western Europe,BBB,4171495408.3,212076912.1,0.0197,0.4442,1.21,1.02,2.3,4.39,0.1677,4,78.6,0,75.2,0.0865
+ENT-1619,Kestrel Secure Payments Enterprises,Financial Services,Latin America,BBB,15862715.05,500000.0,0.0214,0.3408,1.66,1.49,2.28,3.28,0.2377,0,73.4,0,77.4,0.1173
+ENT-1620,Radiant Cloud Technologies Enterprises,Telecommunications,Asia-Pacific,CCC,248655994.34,13068622.84,0.1636,0.6863,0.52,0.45,6.85,0.64,0.2256,7,45.8,2,43.7,0.2452
+ENT-1621,Genesis Global Logistics PLC,Healthcare & Life Sciences,North America,BBB,1801908713.57,46305606.56,0.0207,0.5017,1.7,1.17,2.49,7.12,0.1309,4,78.9,1,83.1,0.1284
+ENT-1622,Matrix Renewable Power International,Retail & Consumer Goods,Middle East & Africa,BBB,162257495.21,1705179.68,0.0196,0.3943,1.56,1.09,1.89,3.79,0.3346,3,70.1,0,68.6,0.1032
+ENT-1623,Jupiter Chemical Dynamics Inc,Healthcare & Life Sciences,Western Europe,B,508950701.61,16670189.11,0.0927,0.5414,0.61,0.45,4.58,1.98,0.2093,5,42.5,9,40.1,0.2237
+ENT-1624,Matrix Financial Services Corp,Healthcare & Life Sciences,Middle East & Africa,AAA,3259281690.31,37046885.91,0.0035,0.1788,3.95,3.16,0.71,13.44,0.3386,0,97.2,0,91.2,0.0328
+ENT-1625,Titan Industrial Robotics LLC,Technology & Software,Western Europe,BBB,44950547.33,837988.34,0.0445,0.3866,1.4,0.97,2.3,5.74,0.2731,4,66.5,0,62.6,0.1464
+ENT-1626,Pacific Industrial Robotics Corp,Retail & Consumer Goods,Middle East & Africa,A,4820954247.12,250000000.0,0.0116,0.4228,2.36,2.08,1.09,9.04,0.1624,1,87.4,4,90.8,0.0323
+ENT-1627,Echo Automotive Systems Holdings,Telecommunications,Middle East & Africa,BBB,62819440.66,2127180.03,0.0392,0.3422,1.77,1.44,2.73,6.49,0.3211,7,74.0,5,71.5,0.1225
+ENT-1628,Olympus Chemical Dynamics International,Financial Services,North America,BBB,871616607.62,32753999.39,0.0252,0.337,1.82,1.48,2.33,4.68,0.1587,7,77.9,1,77.1,0.0692
+ENT-1629,Pinnacle Digital Systems Holdings,Financial Services,Middle East & Africa,BBB,185256910.67,14076316.51,0.0401,0.4293,1.43,1.0,1.81,5.14,0.1688,4,73.8,4,78.5,0.0924
+ENT-1630,Terra Global Logistics PLC,Healthcare & Life Sciences,Western Europe,B,6734268628.28,250000000.0,0.138,0.5677,0.98,0.72,3.98,1.48,0.1242,5,52.7,7,49.5,0.1751
+ENT-1631,Quantum Chemical Dynamics PLC,Financial Services,North America,AAA,81639458.29,1240697.72,0.0013,0.3126,2.08,1.69,0.39,23.33,0.2255,1,91.4,2,88.4,0.0539
+ENT-1632,Echo Automotive Systems LLC,Energy & Utilities,Middle East & Africa,AA,11761004195.45,250000000.0,0.0051,0.342,2.31,1.98,0.85,15.2,0.1122,0,93.0,3,87.8,0.0182
+ENT-1633,Summit Health Solutions PLC,Transportation & Logistics,Middle East & Africa,A,10226146354.36,250000000.0,0.0135,0.256,1.94,1.54,1.94,8.62,0.3257,1,83.2,0,79.9,0.1131
+ENT-1634,Pacific Capital Partners LLC,Transportation & Logistics,Latin America,BBB,108232063.81,5484470.9,0.0435,0.4786,1.87,1.56,1.57,6.71,0.1628,2,80.8,0,83.9,0.0754
+ENT-1635,Pacific Chemical Dynamics Enterprises,Retail & Consumer Goods,Western Europe,A,30647065.05,1722620.14,0.018,0.3937,2.08,1.38,1.92,9.94,0.3038,2,86.9,0,84.6,0.0838
+ENT-1636,Genesis Telecom Networks Group,Manufacturing & Industrial,Western Europe,BBB,4522489071.37,250000000.0,0.0191,0.3834,1.23,0.83,2.2,6.93,0.1159,0,72.7,2,75.3,0.1256
+ENT-1637,Genesis Global Logistics Ltd,Financial Services,Western Europe,BBB,493762747.23,10401834.95,0.0214,0.3414,1.52,1.34,2.5,4.95,0.2279,1,69.5,4,71.9,0.1187
+ENT-1638,Pacific Agri-Sciences Holdings,Energy & Utilities,Latin America,AAA,971173901.32,47952535.26,0.0022,0.2788,3.1,2.21,0.48,17.57,0.3441,1,98.6,0,99.9,0.0265
+ENT-1639,Kestrel Industrial Robotics PLC,Technology & Software,North America,BBB,7987480932.96,219655018.49,0.0324,0.4517,1.81,1.29,2.18,6.58,0.2225,2,78.5,1,82.7,0.1034
+ENT-1640,Quantum Consumer Brands Corp,Manufacturing & Industrial,Western Europe,BBB,18498508.58,500000.0,0.0351,0.3924,1.66,1.11,2.55,6.53,0.1356,3,75.8,0,76.1,0.0985
+ENT-1641,Kestrel Health Solutions PLC,Manufacturing & Industrial,North America,BBB,61246411.99,1976902.49,0.0245,0.4225,1.3,1.15,1.8,3.99,0.229,2,69.7,2,66.2,0.1104
+ENT-1642,Apex Renewable Power Ltd,Telecommunications,Latin America,A,281139315.34,3407556.34,0.0172,0.3744,2.16,1.7,1.51,11.54,0.0826,0,75.7,0,69.2,0.1245
+ENT-1643,Falcon Maritime Transport International,Transportation & Logistics,Asia-Pacific,BBB,1857415840.41,113289301.55,0.018,0.5099,1.93,1.69,1.32,7.2,0.3229,2,79.2,3,78.2,0.0739
+ENT-1644,Titan Semiconductor International,Healthcare & Life Sciences,Western Europe,A,237496851.12,16952282.33,0.0095,0.425,2.06,1.55,0.99,9.91,0.358,5,80.6,4,79.8,0.1133
+ENT-1645,Aegis Health Solutions Corp,Manufacturing & Industrial,North America,AAA,1021025932.56,52844340.74,0.002,0.2403,2.49,2.11,0.64,18.93,0.1978,1,91.2,2,95.3,0.0434
+ENT-1646,Pacific Energy Infrastructure Inc,Energy & Utilities,Asia-Pacific,BB,195312234.88,12026776.3,0.0638,0.4094,1.55,1.18,3.67,2.42,0.0857,4,54.0,1,55.0,0.2129
+ENT-1647,Falcon Telecom Networks LLC,Energy & Utilities,Middle East & Africa,BBB,403577106.09,29881668.4,0.0312,0.3991,1.38,1.0,1.36,5.85,0.1546,6,70.2,5,66.5,0.1162
+ENT-1648,Atlas Supply Chain Network International,Financial Services,Latin America,AA,2664249713.62,50832387.39,0.0057,0.3014,2.76,2.23,1.21,8.45,0.1689,3,85.6,1,81.4,0.0593
+ENT-1649,Falcon Agri-Sciences Ltd,Technology & Software,North America,BBB,1267316490.91,46481412.5,0.0374,0.374,1.46,1.15,1.34,3.36,0.2054,7,81.0,5,74.1,0.1152
+ENT-1650,Hyperion Maritime Transport Enterprises,Manufacturing & Industrial,Asia-Pacific,BBB,890684716.93,60050415.41,0.0289,0.3487,1.66,1.31,2.11,5.54,0.3646,4,80.3,5,82.7,0.1248
+ENT-1651,Olympus Digital Systems Inc,Financial Services,Latin America,AA,88260817.29,3941191.14,0.0081,0.301,2.85,1.95,0.65,15.32,0.1294,3,86.6,0,83.1,0.0832
+ENT-1652,Nova Capital Partners Corp,Retail & Consumer Goods,North America,A,613861860.14,10432724.36,0.0177,0.324,2.21,1.84,1.05,11.19,0.2649,2,81.4,0,86.1,0.1135
+ENT-1653,Zephyr Health Solutions Group,Telecommunications,Western Europe,AA,6342225968.68,214663276.72,0.0053,0.3813,2.54,1.74,0.77,15.22,0.1323,1,89.7,1,86.2,0.0698
+ENT-1654,Beacon Global Logistics Holdings,Technology & Software,Asia-Pacific,BB,352118344.98,12959241.37,0.0526,0.525,1.52,1.11,2.99,2.52,0.2482,6,56.6,0,52.4,0.203
+ENT-1655,Atlas Cloud Technologies Inc,Manufacturing & Industrial,Latin America,A,753363759.64,17005387.63,0.0168,0.2877,1.62,1.27,1.65,5.35,0.1008,1,87.0,4,89.3,0.0727
+ENT-1656,Terra Cloud Technologies Group,Energy & Utilities,Middle East & Africa,BB,54053879.06,729971.52,0.0837,0.3981,1.07,0.88,3.02,3.69,0.1694,8,52.2,6,53.5,0.2142
+ENT-1657,Titan Chemical Dynamics PLC,Transportation & Logistics,Asia-Pacific,AAA,5348442701.31,250000000.0,0.003,0.2178,2.14,1.7,0.7,13.23,0.2701,1,91.2,2,90.2,0.0242
+ENT-1658,Genesis Consumer Brands Corp,Manufacturing & Industrial,Latin America,BBB,211325052.03,4781211.93,0.0407,0.3024,1.48,0.97,1.44,4.34,0.0963,3,75.1,0,76.2,0.0833
+ENT-1659,Solstice Energy Infrastructure Holdings,Manufacturing & Industrial,Middle East & Africa,AAA,115472832.58,8401804.08,0.0029,0.304,2.28,1.96,0.21,14.77,0.2648,0,92.1,1,84.5,0.0815
+ENT-1660,Pinnacle Capital Partners Inc,Energy & Utilities,Asia-Pacific,BBB,628156619.52,8898385.63,0.0254,0.5034,1.52,1.24,2.8,4.18,0.2528,3,76.8,5,70.7,0.1047
+ENT-1661,Vertex Automotive Systems Holdings,Financial Services,Latin America,A,1776327103.34,26406193.06,0.0197,0.2529,2.16,1.71,0.96,6.06,0.3178,5,88.3,2,84.9,0.0319
+ENT-1662,Kestrel Cloud Technologies Group,Energy & Utilities,Latin America,BBB,3729929347.21,116901785.85,0.0447,0.3167,1.8,1.37,1.97,5.06,0.1576,4,77.2,3,72.9,0.1297
+ENT-1663,Meridian Advanced Materials Enterprises,Technology & Software,North America,A,1910301193.14,35283231.95,0.01,0.3132,2.15,1.74,1.28,5.54,0.1921,2,85.3,3,85.3,0.0951
+ENT-1664,Aegis Chemical Dynamics LLC,Healthcare & Life Sciences,Western Europe,BB,970294263.02,10085424.76,0.0493,0.4039,1.15,0.89,2.29,2.37,0.1338,4,64.9,0,63.3,0.1503
+ENT-1665,Delta Renewable Power Ltd,Energy & Utilities,Latin America,B,63021197.42,2909468.0,0.1389,0.6003,1.16,0.86,4.41,0.65,0.174,4,46.3,11,45.4,0.2321
+ENT-1666,Hyperion Secure Payments LLC,Manufacturing & Industrial,Asia-Pacific,AAA,1596149443.61,85655848.89,0.0016,0.2439,3.44,2.69,0.48,16.19,0.2631,2,98.3,1,91.3,0.019
+ENT-1667,Horizon Health Solutions Ltd,Transportation & Logistics,Middle East & Africa,BB,28204875.14,2234426.87,0.0875,0.3988,1.55,1.15,3.89,2.55,0.2123,8,64.7,6,57.6,0.126
+ENT-1668,Pacific Energy Infrastructure Enterprises,Telecommunications,North America,AA,104434107.81,6794280.03,0.004,0.2088,2.35,1.77,0.85,16.27,0.1094,2,91.2,1,87.2,0.0805
+ENT-1669,Vertex Semiconductor Ltd,Technology & Software,Western Europe,A,1100066644.67,32186787.27,0.0141,0.4073,2.47,2.12,1.5,6.74,0.2784,1,85.6,0,83.3,0.0966
+ENT-1670,Beacon Semiconductor Inc,Manufacturing & Industrial,Middle East & Africa,A,120238122.83,8540014.15,0.0099,0.2913,2.26,1.67,1.66,6.1,0.1557,5,77.3,4,74.6,0.0944
+ENT-1671,Radiant Maritime Transport Group,Transportation & Logistics,Latin America,AAA,41828885.92,1651383.92,0.0012,0.2521,2.91,2.45,0.66,17.8,0.1474,1,96.0,0,90.0,0.06
+ENT-1672,Terra Renewable Power LLC,Manufacturing & Industrial,Latin America,AAA,21670587.26,500905.42,0.0037,0.254,3.58,2.53,0.54,16.66,0.3283,1,88.2,2,89.8,0.0762
+ENT-1673,Echo Agri-Sciences Ltd,Financial Services,Latin America,A,6291660345.81,108883486.94,0.0198,0.422,2.26,2.0,1.67,6.33,0.2126,0,76.1,4,73.1,0.115
+ENT-1674,Quantum Digital Systems Corp,Telecommunications,Asia-Pacific,BB,260672629.63,6868183.19,0.0897,0.6096,1.49,1.22,2.79,3.78,0.1627,5,68.0,2,70.4,0.1634
+ENT-1675,Olympus Biomedical Research Group,Telecommunications,North America,AA,1303575262.52,21564726.95,0.006,0.2324,2.38,2.04,1.39,11.18,0.2396,3,88.6,1,86.8,0.0745
+ENT-1676,Jupiter Capital Partners Group,Telecommunications,Asia-Pacific,B,181988026.97,13312161.51,0.1534,0.7013,0.76,0.57,5.46,1.11,0.1701,9,42.6,12,40.0,0.2501
+ENT-1677,Matrix Maritime Transport Inc,Healthcare & Life Sciences,Latin America,A,713362356.94,32854549.89,0.0162,0.3799,1.97,1.49,0.97,8.59,0.2562,4,82.1,0,75.1,0.1156
+ENT-1678,Summit Renewable Power Enterprises,Technology & Software,North America,AAA,9329971033.8,250000000.0,0.0022,0.2013,2.02,1.45,0.28,20.58,0.1757,1,96.4,2,100.0,0.031
+ENT-1679,Olympus Advanced Materials Ltd,Technology & Software,Middle East & Africa,AA,218665893.47,5351462.17,0.0042,0.3013,2.74,2.41,0.9,17.66,0.3625,3,93.2,0,87.0,0.0225
+ENT-1680,Vanguard Chemical Dynamics Holdings,Healthcare & Life Sciences,North America,BBB,251468689.94,5098807.88,0.0309,0.3038,1.86,1.24,2.24,6.57,0.1198,7,73.8,4,69.2,0.0962
+ENT-1681,Kestrel Renewable Power International,Financial Services,Asia-Pacific,A,611551286.88,30742421.23,0.0096,0.3415,1.8,1.55,1.18,10.87,0.2086,2,85.9,4,86.0,0.0641
+ENT-1682,Hyperion Energy Infrastructure PLC,Telecommunications,Middle East & Africa,BBB,257308599.56,10812703.09,0.032,0.483,1.79,1.32,2.31,5.89,0.3593,1,79.3,3,75.7,0.1174
+ENT-1683,Unity Secure Payments Inc,Financial Services,Western Europe,BBB,10874735333.17,250000000.0,0.0202,0.3154,1.78,1.57,1.3,6.27,0.2771,2,77.4,2,80.1,0.0735
+ENT-1684,Summit Cloud Technologies International,Technology & Software,Latin America,BBB,89418038.29,3878833.27,0.0402,0.3597,1.37,1.12,2.1,5.31,0.157,3,65.6,2,59.0,0.181
+ENT-1685,Radiant Industrial Robotics LLC,Manufacturing & Industrial,North America,AAA,268665890.06,3669221.34,0.0013,0.2818,3.29,2.17,0.2,13.02,0.3089,0,94.4,0,93.1,0.0425
+ENT-1686,Nexus Global Logistics Ltd,Financial Services,Western Europe,B,1120953703.22,43752511.39,0.1544,0.6619,0.72,0.49,4.96,1.45,0.2554,9,56.3,12,61.1,0.1922
+ENT-1687,Infinity Digital Systems Holdings,Healthcare & Life Sciences,Asia-Pacific,AA,3807535415.32,105201195.92,0.0077,0.3914,2.78,2.22,0.86,11.64,0.1859,1,90.3,0,91.1,0.0327
+ENT-1688,Vertex Advanced Materials Corp,Financial Services,Latin America,A,2980530881.27,129054857.49,0.0144,0.4042,2.23,1.68,1.87,6.14,0.3787,5,76.8,4,80.4,0.0899
+ENT-1689,Delta Secure Payments LLC,Financial Services,Western Europe,BBB,3392671990.48,237924854.74,0.0448,0.3647,1.84,1.25,1.91,6.82,0.1903,1,75.0,3,75.4,0.1481
+ENT-1690,Luminary Agri-Sciences Group,Manufacturing & Industrial,Latin America,AAA,695589781.53,48977877.82,0.0024,0.1657,3.12,2.29,0.31,23.04,0.2365,1,98.3,1,99.8,0.0319
+ENT-1691,Titan Industrial Robotics International,Manufacturing & Industrial,Western Europe,A,18891181.36,569923.5,0.0172,0.2911,2.28,1.81,1.01,6.83,0.2289,2,81.3,0,82.8,0.095
+ENT-1692,Solstice Biomedical Research Enterprises,Transportation & Logistics,Middle East & Africa,BB,645017605.36,49993539.48,0.0509,0.5514,1.16,0.83,2.56,2.88,0.1446,7,56.0,1,58.4,0.2084
+ENT-1693,Beacon Global Logistics Enterprises,Retail & Consumer Goods,Middle East & Africa,BB,9749033257.2,250000000.0,0.051,0.5869,1.42,1.07,3.15,2.53,0.359,2,58.9,8,50.9,0.1562
+ENT-1694,Nexus Biomedical Research Inc,Telecommunications,North America,AAA,134503025.39,9895827.63,0.0013,0.2713,2.9,2.57,0.29,14.76,0.0889,0,92.8,0,85.1,0.0453
+ENT-1695,Quantum Energy Infrastructure PLC,Manufacturing & Industrial,Asia-Pacific,BBB,71829037.48,3629205.38,0.0355,0.4511,1.9,1.38,2.15,7.42,0.3494,6,81.2,6,83.4,0.0986
+ENT-1696,Olympus Aerospace Engineering LLC,Healthcare & Life Sciences,North America,AA,3699818982.66,212358840.71,0.0042,0.2159,2.97,1.99,0.49,12.27,0.1204,1,93.9,1,93.3,0.0694
+ENT-1697,Unity Supply Chain Network LLC,Financial Services,Latin America,BBB,159440326.26,10491310.17,0.03,0.3701,1.85,1.57,2.49,7.4,0.316,1,78.1,1,70.1,0.093
+ENT-1698,Nexus Energy Infrastructure Ltd,Transportation & Logistics,Latin America,BBB,826284327.19,18533590.66,0.0262,0.3741,1.71,1.47,2.7,6.38,0.3329,1,73.0,4,70.1,0.1311
+ENT-1699,Meridian Automotive Systems Holdings,Retail & Consumer Goods,Western Europe,AA,721796910.19,40824328.14,0.0056,0.3906,2.65,1.87,0.88,14.75,0.1771,2,83.0,1,87.3,0.082
+ENT-1700,Olympus Chemical Dynamics Enterprises,Technology & Software,Asia-Pacific,B,3983271210.23,80935668.9,0.1367,0.5676,0.75,0.62,5.13,0.81,0.3115,2,56.5,8,60.7,0.1798
+ENT-1701,Beacon Cloud Technologies LLC,Manufacturing & Industrial,Middle East & Africa,AAA,2460707833.46,145786038.41,0.0028,0.248,2.06,1.66,0.49,19.28,0.2088,1,98.6,1,100.0,0.0511
+ENT-1702,Genesis Supply Chain Network Inc,Healthcare & Life Sciences,Asia-Pacific,BBB,16259599.12,500000.0,0.037,0.3614,1.72,1.2,1.71,5.27,0.3727,7,75.5,0,80.0,0.0926
+ENT-1703,Jupiter Biomedical Research Ltd,Retail & Consumer Goods,Asia-Pacific,A,2578980988.89,182265561.75,0.0142,0.4486,1.51,1.09,1.55,8.29,0.115,3,80.5,2,85.3,0.1147
+ENT-1704,Luminary Automotive Systems Group,Telecommunications,North America,A,6306798362.56,244005847.99,0.0143,0.3454,1.99,1.68,1.43,7.22,0.1574,4,75.6,1,70.6,0.088
+ENT-1705,Terra Renewable Power Inc,Telecommunications,Western Europe,BBB,1424633112.92,89254464.72,0.0316,0.4967,2.04,1.74,2.25,4.37,0.3749,3,69.7,1,67.4,0.1052
+ENT-1706,Crestview Telecom Networks Enterprises,Manufacturing & Industrial,Latin America,CCC,766243537.49,37535701.24,0.2353,0.6991,0.42,0.34,6.65,-0.42,0.2408,7,30.7,6,24.8,0.2832
+ENT-1707,Pinnacle Capital Partners LLC,Healthcare & Life Sciences,Asia-Pacific,BB,3798345595.17,139770361.03,0.0695,0.553,1.07,0.74,4.14,3.04,0.3744,5,58.8,3,53.7,0.1631
+ENT-1708,Vertex Automotive Systems International,Technology & Software,Asia-Pacific,A,127049054.94,2761221.84,0.0112,0.2571,2.27,1.75,0.91,6.2,0.1108,4,84.2,3,76.5,0.0607
+ENT-1709,Genesis Health Solutions International,Retail & Consumer Goods,Western Europe,BB,1828320522.02,27621870.26,0.0811,0.4983,1.49,1.19,3.56,3.98,0.1497,3,64.5,8,57.0,0.123
+ENT-1710,Pacific Secure Payments Corp,Financial Services,Latin America,AA,1149378295.12,57125728.96,0.0063,0.2064,2.46,2.17,0.8,14.25,0.3139,2,92.2,3,95.4,0.0386
+ENT-1711,Matrix Aerospace Engineering LLC,Technology & Software,Latin America,BB,74729545.42,2213126.58,0.0427,0.5709,1.19,0.84,2.66,3.75,0.3302,6,63.1,1,61.3,0.155
+ENT-1712,Atlas Capital Partners Ltd,Transportation & Logistics,Latin America,B,34734115.24,1364747.68,0.1076,0.5845,0.87,0.68,3.56,1.37,0.0091,4,44.1,1,45.1,0.2365
+ENT-1713,Zephyr Cloud Technologies Ltd,Financial Services,North America,A,296279509.94,11485129.99,0.0145,0.3001,2.48,1.82,0.98,5.68,0.084,4,81.3,1,73.6,0.0912
+ENT-1714,Hyperion Industrial Robotics Corp,Retail & Consumer Goods,Middle East & Africa,BBB,26609350.64,1124629.68,0.0381,0.5169,1.8,1.28,2.37,5.69,0.1435,7,79.5,4,84.0,0.1126
+ENT-1715,Hyperion Global Logistics Corp,Healthcare & Life Sciences,Western Europe,BBB,1952383319.48,84863838.32,0.0316,0.4873,1.81,1.58,2.64,7.39,0.2901,3,73.5,0,74.7,0.1064
+ENT-1716,Radiant Biomedical Research LLC,Energy & Utilities,Latin America,A,73766999.19,5256528.96,0.0184,0.3762,2.02,1.65,1.53,7.91,0.1939,2,80.7,2,78.6,0.125
+ENT-1717,Olympus Chemical Dynamics Inc,Financial Services,Asia-Pacific,AA,152615978.36,6003184.28,0.0031,0.273,2.18,1.69,0.74,15.26,0.233,1,83.7,0,77.0,0.1039
+ENT-1718,Nexus Consumer Brands Enterprises,Retail & Consumer Goods,Latin America,B,129472922.86,9688456.79,0.1434,0.6991,1.0,0.71,5.53,0.81,-0.0041,12,46.0,6,44.7,0.2459
+ENT-1719,Delta Supply Chain Network International,Retail & Consumer Goods,Western Europe,B,27091530.05,2080788.14,0.1537,0.4646,0.82,0.7,4.79,1.82,0.2236,11,50.9,9,50.5,0.1798
+ENT-1720,Infinity Global Logistics Enterprises,Technology & Software,North America,BBB,3160501635.77,161025732.87,0.0449,0.4003,1.87,1.53,2.79,6.21,0.1292,5,81.2,5,74.0,0.1012
+ENT-1721,Summit Secure Payments Corp,Transportation & Logistics,Asia-Pacific,BB,710061083.27,24696900.57,0.081,0.5678,1.28,0.88,2.7,3.35,0.3218,5,57.6,1,58.9,0.1499
+ENT-1722,Pinnacle Agri-Sciences Corp,Energy & Utilities,North America,AAA,15441961.98,851969.65,0.0023,0.2095,3.83,2.67,0.47,24.22,0.2081,0,94.1,2,96.4,0.0332
+ENT-1723,Pinnacle Semiconductor Ltd,Telecommunications,Latin America,BB,81825497.38,3238122.35,0.0793,0.6137,0.94,0.8,2.8,2.88,0.167,7,64.3,1,56.8,0.1331
+ENT-1724,Crestview Financial Services Group,Telecommunications,Western Europe,B,11862615858.0,250000000.0,0.1029,0.5587,1.04,0.93,4.38,1.91,0.3388,9,59.2,7,58.0,0.1773
+ENT-1725,Infinity Secure Payments Corp,Manufacturing & Industrial,Latin America,BBB,1503097683.29,26276907.58,0.0402,0.3958,1.27,1.08,1.87,3.45,0.2701,7,80.0,2,84.4,0.1207
+ENT-1726,Beacon Advanced Materials Group,Technology & Software,Latin America,AAA,190530971.51,12822349.62,0.0021,0.2703,3.21,2.38,0.83,18.54,0.2194,2,99.0,2,93.3,0.0199
+ENT-1727,Beacon Advanced Materials Inc,Manufacturing & Industrial,North America,BB,2700142566.61,176051249.05,0.0754,0.441,1.5,1.31,2.59,1.83,0.3727,6,69.4,4,67.9,0.1591
+ENT-1728,Beacon Cloud Technologies Holdings,Healthcare & Life Sciences,Asia-Pacific,A,8532138264.77,250000000.0,0.012,0.33,1.97,1.59,1.14,11.78,0.2626,0,81.0,1,78.1,0.1132
+ENT-1729,Nexus Chemical Dynamics Corp,Telecommunications,Western Europe,BBB,19857995.47,500000.0,0.0414,0.4238,2.06,1.38,1.74,3.87,0.2462,6,71.5,6,71.9,0.1315
+ENT-1730,Terra Supply Chain Network Holdings,Financial Services,North America,A,370604496.18,23052223.04,0.0105,0.3086,1.88,1.57,1.82,7.63,0.169,0,88.3,2,93.2,0.073
+ENT-1731,Atlas Semiconductor International,Technology & Software,North America,BBB,201555477.7,8124243.43,0.0219,0.481,2.04,1.64,1.82,3.69,0.1595,0,69.3,5,67.5,0.1724
+ENT-1732,Horizon Semiconductor Group,Healthcare & Life Sciences,Latin America,BBB,8734925717.17,250000000.0,0.0424,0.4792,1.61,1.15,1.86,3.09,0.2372,5,73.6,4,78.3,0.1494
+ENT-1733,Nexus Energy Infrastructure International,Financial Services,North America,AA,176599883.91,7006941.68,0.0052,0.3597,2.53,2.01,1.25,16.06,0.1197,2,91.3,1,87.1,0.0183
+ENT-1734,Summit Supply Chain Network Ltd,Energy & Utilities,North America,A,161419474.03,4456131.92,0.0163,0.4039,1.77,1.17,1.82,5.07,0.3611,1,84.4,1,79.6,0.043
+ENT-1735,Meridian Global Logistics LLC,Technology & Software,Asia-Pacific,AA,37664214.29,1990615.32,0.004,0.3057,2.63,1.91,0.44,8.37,0.0879,2,91.6,2,94.0,0.0438
+ENT-1736,Radiant Consumer Brands Group,Energy & Utilities,Asia-Pacific,A,462418932.61,27704536.47,0.0113,0.2743,2.11,1.54,1.33,9.53,0.2282,3,84.3,3,79.2,0.1087
+ENT-1737,Quantum Chemical Dynamics Inc,Transportation & Logistics,Latin America,BBB,11384754864.64,185263668.26,0.0214,0.4819,1.98,1.51,2.37,6.9,0.0929,7,74.8,6,72.0,0.102
+ENT-1738,Solstice Energy Infrastructure Ltd,Telecommunications,Latin America,BB,141550017.5,1446952.71,0.088,0.5221,1.47,1.26,2.33,1.93,0.1733,4,58.4,6,56.8,0.1612
+ENT-1739,Falcon Semiconductor LLC,Financial Services,Western Europe,A,567797486.78,24278438.9,0.0095,0.3799,1.58,1.18,1.65,5.14,0.251,2,80.0,1,84.2,0.0965
+ENT-1740,Beacon Maritime Transport International,Telecommunications,Western Europe,CCC,500819824.9,24077187.96,0.2009,0.643,0.53,0.39,5.88,-1.0,0.0012,10,31.8,13,34.9,0.2729
+ENT-1741,Titan Industrial Robotics Corp,Technology & Software,Latin America,AA,188764160.46,13705564.54,0.0031,0.3356,2.47,1.7,0.72,10.25,0.3433,3,88.3,2,88.0,0.0716
+ENT-1742,Aegis Renewable Power Inc,Manufacturing & Industrial,Asia-Pacific,A,16903620.25,565097.97,0.0102,0.386,1.56,1.23,1.05,11.64,0.1807,1,79.9,2,80.3,0.1214
+ENT-1743,Apex Advanced Materials Holdings,Retail & Consumer Goods,Middle East & Africa,BBB,4990817349.58,237357418.77,0.0383,0.3308,1.51,1.13,2.07,7.18,0.3423,0,67.3,2,63.9,0.1312
+ENT-1744,Terra Industrial Robotics Ltd,Technology & Software,Middle East & Africa,BBB,6265148420.34,250000000.0,0.0356,0.4844,1.67,1.17,2.09,5.5,0.3027,4,68.7,1,65.4,0.1724
+ENT-1745,Pinnacle Global Logistics LLC,Telecommunications,Latin America,A,2334516752.39,146039889.86,0.0112,0.3644,2.48,1.91,1.93,6.5,0.1022,2,88.4,0,93.3,0.074
+ENT-1746,Pacific Digital Systems PLC,Manufacturing & Industrial,North America,B,3773972172.27,250000000.0,0.1255,0.5532,1.16,0.88,4.6,1.26,0.1542,9,50.4,0,53.9,0.2095
+ENT-1747,Jupiter Financial Services Ltd,Transportation & Logistics,Western Europe,BBB,38033472.21,500000.0,0.0246,0.455,1.29,1.13,1.62,3.92,0.1345,6,65.2,3,68.6,0.1622
+ENT-1748,Atlas Consumer Brands International,Telecommunications,North America,AA,100990135.64,4374374.48,0.0087,0.2495,2.82,2.14,0.7,12.56,0.1014,3,92.4,3,93.8,0.0152
+ENT-1749,Nova Consumer Brands PLC,Energy & Utilities,Latin America,B,54504345.7,3912973.01,0.1448,0.7113,0.89,0.74,4.16,0.81,0.0994,6,43.6,4,46.4,0.2284
+ENT-1750,Vanguard Semiconductor Ltd,Transportation & Logistics,North America,BBB,28100907.0,1578041.93,0.0266,0.4649,1.32,1.15,1.66,4.59,0.3651,6,74.8,1,75.6,0.097
