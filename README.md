@@ -209,8 +209,8 @@ When an entity's telemetry crosses critical benchmark tripwires, the decision su
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/enterprise-risk-decision-support.git
-cd enterprise-risk-decision-support
+git clone https://github.com/Talha-Minhaj/enterprise-risk-engine.git
+cd enterprise-risk-engine
 
 # Create and activate a Python virtual environment
 python -m venv .venv
